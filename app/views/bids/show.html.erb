@@ -14,8 +14,13 @@
 	<div class="border-top">
 		<div class="tab-container">
 			<ul class= "new-nav--tabs">
-				<li class="new-tab-unselect"><%= link_to "Quotes", quote_path(@quote) %>  </li>
-				<li class="new-tab"> Bids  </li>
+				<% if @quote.user_id == current_user.id %>
+					<li class="new-tab-unselect"><%= link_to "Bids", quote_path(@quote) %>  </li>
+				<% else %>
+					<li class="new-tab-unselect"><%= link_to "Quotes Available", quotes_path %>  </li>
+					<li class="new-tab-unselect"><%= link_to "Bids Placed", bids_path %>  </li>
+				<% end %>
+				<li class="new-tab"> Bid Overview  </li>
 
 			</ul>
 		</div>
@@ -24,8 +29,7 @@
 <div class="container-fluid grey-quote-block">
 	<div class="col-sm col-sm-8 px3 bg-white">
 		<div class="col-xs-12">
-			<h4><%= @bid.name %></h4>
-			<h4>Amount Bid: $<%= @bid.amount %> by <%= @bid.user.email %></h4>
+			<h4>Discuss and Finalize Your Catering Details Below</h4>
 			<% if user_signed_in? %>
             	<%= render :partial => "comments/form" %>
             <% else %> 
@@ -35,6 +39,17 @@
 		</div>
 	</div>
 	<div class="col-sm col-sm-4 px3">
-		About Bidder Placeholder
+		<div class="bg-white bid-shadow">
+			<div class="bid-header">
+				<h2>Bidder Overview</h2>
+				<h4><%= @bid.name %></h4>
+				<h4>Amount Bid: $<%= @bid.amount %></h4>
+			</div>
+			<div class="border-top bid-header" style="padding-bottom: 10px;">
+				<h4>Type: <%= @quote.field %></h4>
+				<p><%= @bid.description %></p>
+			</div>
+
+		</div>
 	</div>
 </div>

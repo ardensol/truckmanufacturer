@@ -5,8 +5,8 @@
 				<img src="https://assembly.firesize.com/120x120/g_center/https://d1015h9unskp4y.cloudfront.net/attachments/bda9dba4-57d1-417e-a592-6fe5efbdd9d6/InstajobsLogo-01.jpg" width="60" height="60">
 			</a>
 			<div class="overflow-hidden">
-				<h2 class="marg-bot-top-0"><%= @quote.name  %></h2>
-				<h4 class="marg-bot-top-0"><%= @quote.location %> </h4>
+				<h2 class="marg-bot-top-0">Caterer Dashboard</h2>
+				<h4 class="marg-bot-top-0"><%= current_user.email %> </h4>
 			</div>
 
 		</div>
@@ -14,8 +14,8 @@
 	<div class="border-top">
 		<div class="tab-container">
 			<ul class= "new-nav--tabs">
-				<li class="new-tab">Bids  </li>
-
+				<li class="new-tab-unselect"><%= link_to "Quotes Available", quotes_path %></li>
+				<li class="new-tab">Bids Placed</li>
 			</ul>
 		</div>
 	</div>
@@ -26,7 +26,7 @@
 			<% @bids.each do |b| %>
 				<div class="bg-white bid-shadow">
 					<div class="bid-header">
-						<h4><%= link_to b.name, quote_bid_path(@quote, b) %></h4>
+						<h4><%= link_to b.name, quote_bid_path(b.quote_id, b)%></h4>
 						<h4>Bid Amount: $<%= b.amount %> </h4>
 					</div>
 					<div class="border-top bid-header">
@@ -48,17 +48,6 @@
 		</div>
 	</div>
 	<div class="col-sm col-sm-4 px3">
-		<div class="bg-white bid-shadow">
-			<div class="bid-header">
-				<h2>Quote Overview</h2>
-				<h4>Name: <%= @quote.name %></h4>
-				<h4>Location: <%= @quote.location %></h4>
-			</div>
-			<div class="border-top bid-header" style="padding-bottom: 10px;">
-				<h4>Type: <%= @quote.field %></h4>
-				<p><%= @quote.description %></p>
-			</div>
-
-		</div>
+		
 	</div>
 </div>

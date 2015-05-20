@@ -1,9 +1,10 @@
 class BidsController < ApplicationController
 	before_action :set_bid, only: [:show, :edit, :update, :destroy]
+	before_action :set_quote, only: [:show, :new]
+	before_filter :verify_vendor, only: [:new, :index]
 
 	def new
 		@bid = Bid.new
-		@quote = Quote.find_by_id(params[:quote_id])
 
 	    respond_to do |format|
 	      format.html # new.html.erb
@@ -18,7 +19,7 @@ class BidsController < ApplicationController
 			
 	    respond_to do |format|
 	      if @bid.save
-	        format.html { redirect_to root_path, notice: 'Your Bid Has Been Processed.' }
+	        format.html { redirect_to quote_bid_path(@bid.quote_id, @bid), notice: 'Your Bid Has Been Processed.' }
 	        format.json { render action: 'show', status: :created, location: @bid }
 	      else
 	        format.html { render action: 'new' }
@@ -28,16 +29,30 @@ class BidsController < ApplicationController
 	end
 
 	def show
-		@quote = Quote.find_by_id(params[:quote_id])
-		@commentable = @bid
-		@comments = @commentable.comments
-		@comment = Comment.new
+		if signed_in?	
+			if current_user.id == @bid.user_id || current_user.id == @quote.user_id	
+				@commentable = @bid
+				@comments = @commentable.comments
+				@comment = Comment.new
+			else
+				redirect_to root_path
+			end
+		else
+			redirect_to root_path
+		end
 	end
 
+	def index
+		@bids = current_user.bids.order("id DESC")
+	end
 	private
 
 	def set_bid
 		@bid = Bid.find(params[:id])
+	end
+
+	def set_quote
+		@quote = Quote.find_by_id(params[:quote_id])
 	end
 
 

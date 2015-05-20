@@ -2,8 +2,10 @@
 	<div class="col-sm-8 col-sm-offset-3">
 		<div class="quote-form">
 			<%= form_for @quote do |f| %>
-				<h3 class="quote_label">Enter Your Email</h3>
-				<%= f.text_field(:email, class: "quote_input") %><br/>
+				<% unless signed_in? %>
+					<h3 class="quote_label">Enter Your Email</h3>
+					<%= f.text_field(:email, class: "quote_input") %><br/>
+				<% end %>
 
 				<h3 class="quote_label">Name</h3>
 				<%= f.text_field(:name, class: "quote_input") %><br/>

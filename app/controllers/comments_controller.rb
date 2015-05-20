@@ -13,11 +13,13 @@ class CommentsController < ApplicationController
   	@comment = @commentable.comments.new(comment_params)
   	@comment.user = current_user
     if @comment.save
-  		redirect_to @commentable, notice: "Comment Created."
+      ##this won't work if you add another klass to the commentable other than bid MVP'ing this BITCH!
+  		redirect_to quote_bid_path(@commentable.quote_id, @commentable), notice: "Comment Created."
   	else
   		render :new
   	end
   end
+
 
 private
 

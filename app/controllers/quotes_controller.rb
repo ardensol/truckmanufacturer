@@ -1,5 +1,6 @@
 class QuotesController < ApplicationController
 	before_action :set_quote, only: [:show, :edit, :update, :destroy]
+	before_filter :verify_vendor, only: [:index]
 	def new
 		@quote = Quote.new
 
@@ -13,6 +14,7 @@ class QuotesController < ApplicationController
 		if current_user
 			@quote = current_user.quotes.new(quote_params)
 			@quote.user_id = current_user.id
+			@quote.email = current_user.email
 		else
 			@quote = Quote.new(quote_params)
 		end
@@ -29,8 +31,33 @@ class QuotesController < ApplicationController
 
 	end
 
+	def index
+		@quotes = Quote.order("id DESC").all
+	end
+
+	def quote
+		if signed_in?
+			if current_user.quotes.last.present?
+				@quote = current_user.quotes.last
+				redirect_to quote_path(@quote)
+			else
+				redirect_to new_quote_path
+			end
+		else
+			redirect_to new_quote_path
+		end
+	end
+
 	def show
-		@bids = @quote.bids 
+		if signed_in?
+			if current_user.id == @quote.user_id
+				@bids = @quote.bids
+			else
+				redirect_to root_path
+			end
+		else
+			redirect_to root_path
+		end
 	end
 
 	private
@@ -42,4 +69,6 @@ class QuotesController < ApplicationController
 	def quote_params
       params.require(:quote).permit(:email, :name, :field, :description, :location, :user_id)
     end
+
+
 end

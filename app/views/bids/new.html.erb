@@ -1,20 +1,4 @@
-<div class="container-fluid">
-	<h1>New Bid</h1>
-
-	<%= form_for [@quote, @bid] do |f| %>
-		<div class="field">
-		    <%= f.label "Subject" %><br>
-		    <%= f.text_field :name %>
- 		 </div>
- 		 <div class="field">
-		    <%= f.label :amount %><br>
-		    <%= f.text_field :amount %>
- 		 </div>
- 		 <div class="field">
-		    <%= f.label :description %><br>
-		    <%= f.text_field :description %>
- 		 </div>
-	<%= f.submit %>
-	<% end %>
+<div class="container-fluid grey">
+	<h1 class="quote-header">Place a Competitive Bid and Get More Business!</h1>
+	<%= render 'form' %>
 </div>
-
