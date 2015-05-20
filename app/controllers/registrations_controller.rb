@@ -1,5 +1,6 @@
 class RegistrationsController < Devise::RegistrationsController
-	
+	before_filter :update_sanitized_params, if: :devise_controller?
+
 	def create
 		super
 		check_existing_quotes
@@ -13,5 +14,9 @@ class RegistrationsController < Devise::RegistrationsController
 			@quote.save
 		end
 	end
+
+	def update_sanitized_params
+       devise_parameter_sanitizer.for(:sign_up) << :vendor
+    end
 
 end
