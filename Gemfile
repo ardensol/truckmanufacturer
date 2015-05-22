@@ -1,6 +1,7 @@
 # In China need HTTP, will change back to HTTPS once i'm back
 source 'http://rubygems.org'
 
+gem 'yelp'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
