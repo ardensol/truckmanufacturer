@@ -1,6 +1,6 @@
 require 'yelp'
 require 'dotenv'
-require 'httparty'
+# require 'httparty'
 Dotenv.load
 
 class Yelpcall
