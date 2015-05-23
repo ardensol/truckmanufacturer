@@ -2,12 +2,18 @@ require_relative '../models/yelp_api'
 
 class ProfilesController < ApplicationController
   before_action :set_profile, only: [:show, :edit, :update, :destroy]
+  respond_to :html, :js
+
+  def call
+    @call = Yelpcall.new
+    @x = @call.search
+    respond_with @x
+  end
 
   # GET /profiles
   # GET /profiles.json
   def index
     @profiles = Profile.all
-    Yelpcall.new
   end
 
   # GET /profiles/1

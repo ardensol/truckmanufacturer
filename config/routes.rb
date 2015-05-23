@@ -1,8 +1,8 @@
 Rails.application.routes.draw do
-  
+
 
   devise_for :users, controllers: { registrations: 'registrations'}
-  
+
   resources :quotes do
     resources :bids
   end
@@ -13,13 +13,15 @@ Rails.application.routes.draw do
     resources :comments
   end
 
+  match "call", to: "profiles#call", via: "get"
+
   match "quote", to: "quotes#quote", via: 'get'
 
   get "comments/index"
 
   get "comments/new"
 
-  
+
   root to: 'pages#home'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
