@@ -1,6 +1,6 @@
 require 'yelp'
 require 'dotenv'
-# require 'httparty'
+require 'csv'
 Dotenv.load
 
 class Yelpcall
@@ -16,11 +16,24 @@ class Yelpcall
     params = {sort: 2, term: "caterer"}
 
     trending = @client.search("San Francisco, CA", params)
-    # trending.businesses.each do |business|
-    #   p "#{business.name}: #{business.rating} (#{business.url})"
-    # end
   end
 end
 
 new_search = Yelpcall.new
-p new_search.search
+
+caterers = new_search.search
+
+CSV.open("./caterers.csv", "w+") do |csv|
+  caterers.businesses.each do |business|
+    begin
+      phone = business.phone
+    rescue => e
+      phone = "NA"
+    end
+    name = business.name
+    physical_address = business.location.display_address.first
+    city = business.location.city
+    state = business.location.state_code
+    csv << [name, physical_address, city, state, phone]
+  end
+end
