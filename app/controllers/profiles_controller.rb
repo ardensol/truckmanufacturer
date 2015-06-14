@@ -1,14 +1,7 @@
-require_relative '../models/yelp_api'
-
 class ProfilesController < ApplicationController
   before_action :set_profile, only: [:show, :edit, :update, :destroy]
   respond_to :html, :js
 
-  def call
-    @call = Yelpcall.new
-    @x = @call.search
-    respond_with @x
-  end
 
   # GET /profiles
   # GET /profiles.json
@@ -47,7 +40,6 @@ class ProfilesController < ApplicationController
   end
 
   # PATCH/PUT /profiles/1
-  # PATCH/PUT /profiles/1.json
   def update
     respond_to do |format|
       if @profile.update(profile_params)
