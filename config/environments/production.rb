@@ -95,6 +95,5 @@ Rails.application.configure do
      :user_name => "postmaster@app2967ca1f10e64765a84b50f517446dc7.mailgun.org",
      :password => "6cd5690aea8964fc2ea9c2914fdbefdb"
     }
-end
 
 end
