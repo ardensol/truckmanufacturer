@@ -15,7 +15,7 @@ class Yelpcall
   def search
     params = {sort: 2, term: "caterer"}
 
-    trending = @client.search("San Francisco, CA", params)
+    trending = @client.search("New York City, NY", params)
   end
 end
 

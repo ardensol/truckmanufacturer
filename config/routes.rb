@@ -9,6 +9,8 @@ Rails.application.routes.draw do
 
   resources :profiles
 
+  resources :consultations
+
   resources :bids do
     resources :comments
   end
@@ -23,6 +25,10 @@ Rails.application.routes.draw do
 
 
   root to: 'pages#home'
+
+  scope '/caterers' do
+    get 'websites', to: 'tours#websites'
+  end
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
