@@ -1,7 +1,5 @@
 require 'yelp'
-require 'dotenv'
 require 'csv'
-Dotenv.load
 
 
 namespace :export do
