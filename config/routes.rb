@@ -24,7 +24,7 @@ Rails.application.routes.draw do
   get "comments/new"
 
 
-  root to: 'pages#home'
+  root to: 'tours#websites'
 
   scope '/caterers' do
     get 'websites', to: 'tours#websites'
