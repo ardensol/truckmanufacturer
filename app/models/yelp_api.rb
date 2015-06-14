@@ -1,5 +1,4 @@
 require 'yelp'
-require 'dotenv'
 require 'csv'
 Dotenv.load
 
