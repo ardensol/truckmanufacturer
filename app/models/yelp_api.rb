@@ -1,6 +1,5 @@
 require 'yelp'
 require 'csv'
-Dotenv.load
 
 class Yelpcall
   def initialize
