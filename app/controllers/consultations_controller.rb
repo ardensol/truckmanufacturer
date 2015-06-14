@@ -10,7 +10,7 @@ class ConsultationsController < ApplicationController
 	      if @consultation.save
 	      	consultation = @consultation
 	      	ConsultationMailer.new_message(consultation).deliver
-	        format.html { redirect_to '/lawyers/websites', notice: 'Your Consultation Request Has Been Sent.' }
+	        format.html { redirect_to '/caterers/websites', notice: 'Your Consultation Request Has Been Sent.' }
 	        format.json { render :show, status: :created, location: @consultation }
 	      else
 	        format.html { render :new }
