@@ -1,20 +1,805 @@
-Naturally Delicious,487 Court St,Brooklyn,NY,7182373727
-Appetizzio's Italian Specialties & World Market,5 Ridge Rd,Lyndhurst,NJ,2019391566
-Betty Brooklyn,455 Utica Ave,Brooklyn,NY,7188323889
-La Bella Salumeria Delicatessen,2308 Bergenline Ave,Union City,NJ,2018673065
-Molly's Milk Truck,"Hoboken, NJ 07030",Hoboken,NJ,2015036639
-Buon Appetit,36-12 Ditmars Blvd,Astoria,NY,7187266669
-Creative Foods Catering,17 Amawalk Rd,Carmel,NY,9148823986
-Sips & Bites,178 N 10th St,Brooklyn,NY,3478895333
-Tchoup Shop,50 Wyckoff Ave,Brooklyn,NY,3472232710
-Five Spice Catering,385 Grand St,New York,NY,6463692620
-Bayard's Events and Catering,1 Hanover Sq,New York,NY,2125149454
-Saucy By Nature,884 Fulton Street,Brooklyn,NY,7187890177
-Remarkable Cuisine,"Jersey City, NJ 07305",Jersey City,NJ,2018556848
-The Halcyon Gourmet,202 Banker St,Brooklyn,NY,7183492882
-The International Culinary Center,462 Broadway,New York,NY,8883242433
-Kitchen Provance,55 W 38th St,New York,NY,2128692561
-Sweet Basil Catering,233 West 77th Street,New York,NY,6463681699
-Between the Bread,145 W 55th St,New York,NY,2127651840
-Bite Size Kitchen,90 Kent Ave,Brooklyn,NY,9176701960
-Matera's On Park,72 Park Ave,Rutherford,NJ,2014388083
+Century Documents,2027 1/2 Westwood Blvd.,Los Angeles,CA,90025,3104415400,5.0,25,true,false,http://www.yelp.com/biz/century-documents-los-angeles,90067
+Law Offices of Anat Resnik,Westwood,Los Angeles,CA,90025,3104212006,5.0,10,true,false,http://www.yelp.com/biz/law-offices-of-anat-resnik-los-angeles-2,90067
+Law Offices of Evan Braunstein,10250 Constellation Blvd.,Los Angeles,CA,90067,3103102236,4.5,10,true,false,http://www.yelp.com/biz/law-offices-of-evan-braunstein-los-angeles-2,90067
+Tamara Benefield Law Office,9454 Wilshire Blvd,Beverly Hills,CA,90212,3102717675,5.0,4,true,false,http://www.yelp.com/biz/tamara-benefield-law-office-beverly-hills,90067
+"Law Offices of Navid A Natanian, Aplc",1925 Century Park E,Los Angeles,CA,90067,3107892060,5.0,7,true,false,http://www.yelp.com/biz/law-offices-of-navid-a-natanian-aplc-los-angeles-2,90067
+Berenji & Associates,9107 Wilshire Blvd Suite 750,Beverly HIlls,CA,90210,3102716290,4.5,6,true,false,http://www.yelp.com/biz/berenji-and-associates-beverly-hills-3,90067
+Lauzon Peter,2029 Century Park E,Los Angeles,CA,90067,3102777117,5.0,2,true,false,http://www.yelp.com/biz/lauzon-peter-los-angeles,90067
+Galen Gentry and Associates,1875 Century Park E,Los Angeles,CA,90067,3102827521,3.5,3,true,false,http://www.yelp.com/biz/galen-gentry-and-associates-los-angeles,90067
+"Atighechi Law Group, Apc",9465 Wilshire Blvd,Beverly Hills,CA,90212,3107734542,5.0,4,true,false,http://www.yelp.com/biz/atighechi-law-group-apc-beverly-hills-2,90067
+Dream Law,9465 Wilshire Blvd,Beverly Hills,CA,90212,6269936725,5.0,3,true,false,http://www.yelp.com/biz/dream-law-beverly-hills,90067
+The Law Offices of Danielle E Grabois,269 S Beverly Dr,Beverly Hills,CA,90212,4242741846,5.0,2,false,false,http://www.yelp.com/biz/the-law-offices-of-danielle-e-grabois-beverly-hills,90067
+Loghmana Law Firm,468 N Camden Dr,Beverly Hills,CA,90210,3108607442,5.0,2,false,false,http://www.yelp.com/biz/loghmana-law-firm-beverly-hills,90067
+Tausig & Associates,5700 Ralston St,Ventura,CA,93003,8052931409,5.0,3,true,false,http://www.yelp.com/biz/tausig-and-associates-ventura-2,90067
+Law Offices of Haleh Shekarchian,9440 Santa Monica Blvd,Beverly Hills,CA,90210,8006929080,3.5,9,true,false,http://www.yelp.com/biz/law-offices-of-haleh-shekarchian-beverly-hills,90067
+Law Offices of Warren R. Shiell,1875 Century Park E.,Los Angeles,CA,90067,3102479913,2.5,3,true,false,http://www.yelp.com/biz/law-offices-of-warren-r-shiell-los-angeles,90067
+Law Office of Paul F Moore II,2029 Century Park E,Los Angeles,CA,90067,3105531111,5.0,1,true,false,http://www.yelp.com/biz/law-office-of-paul-f-moore-ii-los-angeles,90067
+Law Office of Brett Berman,9595 Wilshire Blvd,Beverly Hills,CA,90212,3107883837,3.5,3,false,false,http://www.yelp.com/biz/law-office-of-brett-berman-beverly-hills,90067
+The Law Offices of Michael Maguire & Associates,301 N Canon Dr,Beverly Hills,CA,90210,3102754444,5.0,4,true,false,http://www.yelp.com/biz/the-law-offices-of-michael-maguire-and-associates-beverly-hills,90067
+Law Offices of Jonathan Pakravan,9615 Brighton Way,Beverly Hills,CA,90210,3102483548,5.0,1,false,false,http://www.yelp.com/biz/law-offices-of-jonathan-pakravan-beverly-hills,90067
+Friedman & Friedman,9454 Wilshire Blvd,Beverly Hills,CA,90212,3102732800,5.0,1,false,false,http://www.yelp.com/biz/friedman-and-friedman-beverly-hills,90067
+Kathleen Royer,Northwest Family Mediation,Seattle,WA,98154,2066849460,5.0,4,true,false,http://www.yelp.com/biz/kathleen-royer-seattle-3,98039
+"Hansen Law Group, PS",12000 NE 8th St,Bellevue,WA,98005,4257096762,5.0,5,true,false,http://www.yelp.com/biz/hansen-law-group-ps-bellevue,98039
+Keith Law & Mediation,1421 34th Ave,Seattle,WA,98122,2065233047,5.0,3,false,false,http://www.yelp.com/biz/keith-law-and-mediation-seattle,98039
+William Buchanan,1520 140th Ave NE,Bellevue,WA,98005,4252830336,5.0,2,true,false,http://www.yelp.com/biz/william-buchanan-bellevue,98039
+"Cassady Filer, LLP",811 First Ave,Seattle,WA,98104,2066235133,5.0,5,true,false,http://www.yelp.com/biz/cassady-filer-llp-seattle-3,98039
+Matthew Kaminski Attorney At Law,Markham Building,Seattle,WA,98121,2064572907,5.0,4,true,false,http://www.yelp.com/biz/matthew-kaminski-attorney-at-law-seattle,98039
+"Mulvaney Law Offices, PLLC",14205 SE 36th St,Bellevue,WA,98006,4256491190,5.0,2,true,false,http://www.yelp.com/biz/mulvaney-law-offices-pllc-bellevue-2,98039
+Integrity Law Group,1032 S Jackson St,Seattle,WA,98104,2068388118,4.5,4,true,false,http://www.yelp.com/biz/integrity-law-group-seattle,98039
+Seattle Law Office,1421 34th Ave,Seattle,WA,98122,2062191403,5.0,5,true,false,http://www.yelp.com/biz/seattle-law-office-seattle-2,98039
+Virginia A Leen,5400 Carillon Point,Kirkland,WA,98033,4255764071,5.0,2,true,false,http://www.yelp.com/biz/virginia-a-leen-kirkland,98039
+Allen A Glass Attorney At Law,1716 NE Ravenna Blvd,Seattle,WA,98105,2062170600,5.0,1,true,false,http://www.yelp.com/biz/allen-a-glass-attorney-at-law-seattle,98039
+"Bart R Anderson, PS",1 Lake Bellevur Dr,Bellevue,WA,98004,4256379488,5.0,1,false,false,http://www.yelp.com/biz/bart-r-anderson-ps-bellevue,98039
+Main Street Law Group,1001 4th Ave,Seattle,WA,98154,2069714800,5.0,1,true,false,http://www.yelp.com/biz/main-street-law-group-seattle,98039
+Kevin Hogan,1001 4th Ave,Seattle,WA,98154,2062928080,5.0,1,true,false,http://www.yelp.com/biz/kevin-hogan-seattle,98039
+"Engel Law Group, P.S.",600 University St,Seattle,WA,98101,2066259800,5.0,1,true,false,http://www.yelp.com/biz/engel-law-group-p-s-seattle-3,98039
+Dussault Law Group,2722 Eastlake Ave E,Seattle,WA,98102,2063244300,5.0,1,false,false,http://www.yelp.com/biz/dussault-law-group-seattle,98039
+Lawgena of Washington,1200 Westlake Ave N,Seattle,WA,98109,8775294362,5.0,2,true,false,http://www.yelp.com/biz/lawgena-of-washington-seattle,98039
+"Weintraub Law Office, PLLC",14205 SE 36th St,Bellevue,WA,98006,4253744045,5.0,1,true,false,http://www.yelp.com/biz/weintraub-law-office-pllc-bellevue,98039
+McKinley Irvin,1501 Fourth Ave,Seattle,WA,98101,2066259600,3.5,12,true,false,http://www.yelp.com/biz/mckinley-irvin-seattle-3,98039
+"Nancy L Cahill, Atty",4143 University Way NE,Seattle,WA,98105,2065471400,4.0,1,false,false,http://www.yelp.com/biz/nancy-l-cahill-atty-seattle,98039
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,07931
+Barry E Levine Attorney At Law,101 Gibraltar Dr,Morris Plains,NJ,07950,9735382084,5.0,1,false,false,http://www.yelp.com/biz/barry-e-levine-attorney-at-law-morris-plains,07931
+"Kevin M Regan, LLC",43 Maple Ave,Morristown,NJ,07960,9739989878,3.5,2,true,false,http://www.yelp.com/biz/kevin-m-regan-llc-morristown-3,07931
+Iandoli & Edens Atty,535 Main St,Chester,NJ,07930,9088799499,1.0,1,true,false,http://www.yelp.com/biz/iandoli-and-edens-atty-chester,07931
+Simon Law Group,40 West High St,Somerville,NJ,08876,8888609196,5.0,1,true,false,http://www.yelp.com/biz/simon-law-group-somerville-2,07931
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,06831
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,06831
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,06831
+Westchester Matrimonial LLC,"445 Hamilton Ave, Ste 607",White Plains,NY,10601,9143615500,5.0,2,true,false,http://www.yelp.com/biz/westchester-matrimonial-llc-white-plains-2,06831
+"Tilem & Associates, PC",188 East Post Road,White Plains,NY,10601,9148339785,5.0,1,true,false,http://www.yelp.com/biz/tilem-and-associates-white-plains,06831
+"Goldschmidt & Genovese, LLP",81 Main St,White Plains,NY,10601,9146816006,1.0,1,true,false,http://www.yelp.com/biz/goldschmidt-and-genovese-llp-white-plains,06831
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,06831
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,06831
+Law Office of Christina Sherman,1010 B St,San Rafael,CA,94901,4154574367,5.0,15,true,false,http://www.yelp.com/biz/law-office-of-christina-sherman-san-rafael,94957
+Siragusa Investigations,Hayes Valley,San Francisco,CA,94102,4158975026,5.0,10,true,false,http://www.yelp.com/biz/siragusa-investigations-san-francisco,94957
+Sonic,"Santa Rosa, CA 95407",Santa Rosa,CA,95407,8887664233,4.0,412,true,false,http://www.yelp.com/biz/sonic-santa-rosa-2,94957
+Ronald E Champoux,1000 4th St,San Rafael,CA,94901,4154592000,5.0,4,true,false,http://www.yelp.com/biz/ronald-e-champoux-san-rafael-2,94957
+The Law Offices of Jasmine Davaloo,1000 Fourth St,San Rafael,CA,94901,4156715353,5.0,3,true,false,http://www.yelp.com/biz/the-law-offices-of-jasmine-davaloo-san-rafael-6,94957
+Law Office Of Ellen S Rothman,1108 5th Ave,San Rafael,CA,94901,4154855600,5.0,3,true,false,http://www.yelp.com/biz/law-office-of-ellen-s-rothman-san-rafael,94957
+Family Law Offices of Renee M. Marcelle,930 Irwin St,San Rafael,CA,94901,4154564444,4.0,7,true,false,http://www.yelp.com/biz/family-law-offices-of-renee-m-marcelle-san-rafael-2,94957
+Susan Marchant Angel,810 E St,San Rafael,CA,94901,4154535000,5.0,2,false,false,http://www.yelp.com/biz/susan-marchant-angel-san-rafael,94957
+Rachel Castrejon,1108 5th Ave,San Rafael,CA,94901,4154820441,5.0,3,true,false,http://www.yelp.com/biz/rachel-castrejon-san-rafael,94957
+Halbert Mary Atty,633 5th Ave,San Rafael,CA,94901,4154548980,5.0,4,false,false,http://www.yelp.com/biz/halbert-mary-atty-san-rafael,94957
+David Sutton Mediation Services,1000 Fourth St,San Rafael,CA,94901,4154558940,4.5,11,true,false,http://www.yelp.com/biz/david-sutton-mediation-services-san-rafael,94957
+Kate Rockas Family Law Attorney,999 Fifth Ave,San Rafael,CA,94901,4153065560,5.0,1,true,false,http://www.yelp.com/biz/kate-rockas-family-law-attorney-san-rafael,94957
+Mauna Berkov Atty,1817 Grand Ave,San Rafael,CA,94901,4154575700,5.0,1,false,false,http://www.yelp.com/biz/mauna-berkov-atty-san-rafael,94957
+Law Offices of David Ostiller,790 Mission Ave,San Rafael,CA,94901,4154559322,5.0,2,false,false,http://www.yelp.com/biz/law-offices-of-david-ostiller-san-rafael,94957
+Laing Bruce Law Office,100 Larkspur Landing Cir,Larkspur,CA,94939,4154613133,5.0,1,false,false,http://www.yelp.com/biz/laing-bruce-law-office-larkspur-2,94957
+Law Offices of Rodrigo Dias,999 Fifth Ave,San Rafael,CA,94901,4154859290,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-rodrigo-dias-san-rafael-2,94957
+"David J Picchi, Atty At Law",1115 Irwin St,San Rafael,CA,94901,4154574080,3.5,3,false,false,http://www.yelp.com/biz/david-j-picchi-atty-at-law-san-rafael,94957
+Law Offices of Gerard A Falzone,747 B St,San Rafael,CA,94901,4154827800,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-gerard-a-falzone-san-rafael,94957
+Matthew Briggs Attorney at Law,1108 5th Ave,San Rafael,CA,94901,4154507123,3.0,2,true,false,http://www.yelp.com/biz/matthew-briggs-attorney-at-law-san-rafael,94957
+Jeffrey A Riebel,770 Tamalpais Dr,Corte Madera,CA,94925,4159247171,2.0,1,false,false,http://www.yelp.com/biz/jeffrey-a-riebel-corte-madera,94957
+"Michael C Pascoe, Attorney at Law",2237 Alma St,Palo Alto,CA,94301,6506569112,5.0,9,true,false,http://www.yelp.com/biz/michael-c-pascoe-attorney-at-law-palo-alto,94027
+Barbara J Kuehn Law & Mediation Offices,1601 El Camino Real,Belmont,CA,94002,6504012320,4.5,11,true,false,http://www.yelp.com/biz/barbara-j-kuehn-law-and-mediation-offices-belmont,94027
+Cali Agent Services,510 N First St,San Jose,CA,95112,4086134164,4.5,8,true,false,http://www.yelp.com/biz/cali-agent-services-san-jose,94027
+Law And Mediation Office Of Sheila M. Harrington,750 Menlo Avenue Suite # 250,Menlo Park,CA,94025,6502331144,4.5,9,true,false,http://www.yelp.com/biz/sheila-m-harrington-law-and-mediation-office-menlo-park,94027
+Law Offices of Robert G. Cummings,2000 Broadway St,Redwood City,CA,94063,6503637280,5.0,4,true,false,http://www.yelp.com/biz/the-law-offices-of-robert-g-cummings-redwood-city,94027
+"Gadzo Law, P.C.",2600 El Camino Real,Palo Alto,CA,94306,6503213050,5.0,6,true,false,http://www.yelp.com/biz/gadzo-law-p-c-palo-alto,94027
+Law Offices of Robert Menache,1100 Alma St,Menlo Park,CA,94025,6503260771,4.0,6,true,false,http://www.yelp.com/biz/law-offices-of-robert-menache-menlo-park,94027
+Law Office of Christiana E Samuels,1625 El Camino Real,Belmont,CA,94002,6507013911,4.5,7,true,false,http://www.yelp.com/biz/law-office-of-christiana-e-samuels-belmont,94027
+Jeffrey P Blum,350 Cambridge Ave,Palo Alto,CA,94306,6503222606,5.0,5,true,false,http://www.yelp.com/biz/jeffrey-p-blum-palo-alto,94027
+BPR Law Group,750 Menlo Ave,Menlo Park,CA,94025,6507047641,5.0,2,false,false,http://www.yelp.com/biz/bpr-law-group-menlo-park,94027
+Hannig Law Firm LLP,2991 El Camino Real,Redwood City,CA,94061,6504823040,4.5,7,true,false,http://www.yelp.com/biz/hannig-law-firm-llp-redwood-city,94027
+"Fausto Law, PC",1001 Laurel St,San Carlos,CA,94070,6509486114,5.0,2,true,false,http://www.yelp.com/biz/fausto-law-pc-san-carlos-3,94027
+"Kruger Rolf D, Attorney At Law",120 B Santa Margarita Ave,Menlo Park,CA,94070,6502891400,4.5,7,false,false,http://www.yelp.com/biz/kruger-rolf-d-attorney-at-law-menlo-park,94027
+"Brown Family Law Group, PC",2000 Broadway St,Redwood City,CA,94063,6503637236,5.0,4,true,false,http://www.yelp.com/biz/brown-family-law-group-pc-redwood-city,94027
+Silvestri Silvestri & Mialocq,550 Price Ave,Redwood City,CA,94063,6503670442,2.0,4,true,false,http://www.yelp.com/biz/silvestri-silvestri-and-mialocq-redwood-city,94027
+Law Offices of Rod Firoozye,2600 El Camino Real,Palo Alto,CA,94306,6503313888,5.0,2,true,false,http://www.yelp.com/biz/law-offices-of-rod-firoozye-palo-alto,94027
+"Michelle A. Melen, Attorney At Law",1690 Woodside Rd,Redwood City,CA,94061,6502082420,5.0,1,true,false,http://www.yelp.com/biz/michelle-a-melen-attorney-at-law-redwood-city,94027
+Silcon Valley Law Office,2237 Alma St,Palo Alto,CA,94301,6506569112,5.0,2,true,false,http://www.yelp.com/biz/silcon-valley-law-office-palo-alto,94027
+Quintero Family Law Services,702 Marshall St,Redwood City,CA,94063,6503655145,4.0,4,true,false,http://www.yelp.com/biz/quintero-family-law-services-redwood-city-4,94027
+"Seeley & Madigan, LLP",530 Lytton Ave,Palo Alto,CA,94301,6506173340,5.0,1,true,false,http://www.yelp.com/biz/seeley-and-madigan-llp-palo-alto,94027
+The Von Kohorn Law Firm,127 Kings Hwy N,Westport,CT,06880,2036820901,5.0,4,true,false,http://www.yelp.com/biz/the-von-kohorn-law-firm-westport,06840
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,06840
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,06840
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,06840
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,06840
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,06840
+Attorney Lawrence W. Berliner-Special Education & Disability Law,1720 Post Road East,Westport,CT,06880,2032550582,1.0,1,false,false,http://www.yelp.com/biz/lawrence-w-berliner-westport,06840
+Linked Investigations,"Costa Mesa, CA 92626",Costa Mesa,CA,92626,8774645374,5.0,7,true,false,http://www.yelp.com/biz/linked-investigations-costa-mesa,92067
+The Law Office of Amanda E. Branca,2051 Montgomery Ave,Encinitas,CA,92007,7605050709,5.0,7,true,false,http://www.yelp.com/biz/the-law-office-of-amanda-e-branca-encinitas,92067
+The Law Offices of Casey O'Connell,12526 High Bluff Dr,San Diego,CA,92130,6193208780,5.0,4,true,false,http://www.yelp.com/biz/the-law-offices-of-casey-o-connell-san-diego,92067
+"John Boesky, MFT- Marriage and Family Therapist",5100 Marlborough Dr.,San Diego,CA,92116,6192808099,4.5,8,true,false,http://www.yelp.com/biz/john-boesky-mft-marriage-and-family-therapist-san-diego-2,92067
+Griffith Law,109 N Acacia Ave,Solana Beach,CA,92075,8583451720,5.0,2,true,false,http://www.yelp.com/biz/griffith-law-solana-beach,92067
+Law Offices of Kandy Koliwer,315 S. Coast Hwy 101,Encinitas,CA,92024,7609436885,5.0,2,false,false,http://www.yelp.com/biz/law-offices-of-kandy-koliwer-encinitas,92067
+Macfarlane Robert J Attorney-Mediator,856 N Coast Hwy,Encinitas,CA,92024,7607533766,5.0,1,true,false,http://www.yelp.com/biz/macfarlane-robert-j-attorney-mediator-encinitas-3,92067
+"Erik C Jenkins, JD",11975 El Camino Real,San Diego,CA,92130,8583142400,5.0,4,true,false,http://www.yelp.com/biz/erik-c-jenkins-jd-san-diego-2,92067
+Robert Macfarlane-Mediator,856 N Coast Hwy 101,Encinitas,CA,92024,7607533766,5.0,1,false,false,http://www.yelp.com/biz/robert-macfarlane-mediator-encinitas,92067
+"Family Law Del Mar, LLP",12636 High Bluff Dr,San Diego,CA,92130,8585195619,5.0,2,true,false,http://www.yelp.com/biz/family-law-del-mar-llp-san-diego,92067
+"Brave, Weber & Mack, APLC",777 S. Highway 101,Solana Beach,CA,92075,8583451616,3.0,9,true,false,http://www.yelp.com/biz/brave-weber-and-mack-aplc-solana-beach,92067
+Lennie Noordhoorn Gee,301 Santa Fe Dr,Encinitas,CA,92024,7607530552,3.5,5,true,false,http://www.yelp.com/biz/lennie-noordhoorn-gee-encinitas,92067
+"Lewis, Warren & Setzer, LLP",12625 High Bluff Dr,San Diego,CA,92130,8584616840,3.0,2,true,false,http://www.yelp.com/biz/lewis-warren-and-setzer-llp-san-diego,92067
+San Diego Family Mediation Center,2010 Jimmy Durante Blvd,Del Mar,CA,92014,8587362411,4.0,5,true,false,http://www.yelp.com/biz/san-diego-family-mediation-center-del-mar,92067
+Fleisher and Associates Law Office,445 Marine View Ave,Solana Beach,CA,92014,8582484036,1.0,1,false,false,http://www.yelp.com/biz/fleisher-and-associates-law-office-solana-beach,92067
+"Moore, Schulman & Moore, APC",12636 High Bluff Dr,San Diego,CA,92130,8587553300,3.5,3,true,false,http://www.yelp.com/biz/moore-schulman-and-moore-apc-san-diego,92067
+Fleischer Myra Chack Atty,445 Marine View Avenue,Del Mar,CA,92104,8587208250,1.0,2,false,false,http://www.yelp.com/biz/fleischer-myra-chack-atty-del-mar,92067
+Law Office of Albert C Gross,503 N Hwy 101,Solana Beach,CA,92075,8587937636,1.0,1,false,false,http://www.yelp.com/biz/law-office-of-albert-c-gross-solana-beach,92067
+Edmunds Law Firm,527 Encinitas Blvd,Encinitas,CA,92024,8004812526,2.0,4,true,false,http://www.yelp.com/biz/edmunds-law-firm-encinitas,92067
+Attorney David Scott Schulman,12636 High Bluff Dr,San Diego,CA,92130,8583455459,1.0,2,false,false,http://www.yelp.com/biz/attorney-david-scott-schulman-san-diego,92067
+The Von Kohorn Law Firm,127 Kings Hwy N,Westport,CT,06880,2036820901,5.0,4,true,false,http://www.yelp.com/biz/the-von-kohorn-law-firm-westport,06820
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,06820
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,06820
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,06820
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,06820
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,06820
+Attorney Lawrence W. Berliner-Special Education & Disability Law,1720 Post Road East,Westport,CT,06880,2032550582,1.0,1,false,false,http://www.yelp.com/biz/lawrence-w-berliner-westport,06820
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,07078
+Patrick T Collins - Franzblau Dratch,Plz One,Livingston,NJ,07039,9739923700,3.0,2,true,false,http://www.yelp.com/biz/patrick-t-collins-franzblau-dratch-livingston,07078
+"William C Hood III, PC",2204 Morris Ave,Union,NJ,07083,9086880777,5.0,1,true,false,http://www.yelp.com/biz/william-c-hood-iii-pc-union,07078
+Trust Mediation,80 Main St,West Orange,NJ,07052,8622336228,5.0,2,true,false,http://www.yelp.com/biz/trust-mediation-west-orange,07078
+Spodek Law Group P.C.,100 Church St,New York,NY,10007,2123005196,5.0,31,true,false,http://www.yelp.com/biz/spodek-law-group-p-c-new-york,10004
+"David Centeno Law, PC",22 Cortlandt St,New York,NY,10007,8668302064,5.0,3,true,false,http://www.yelp.com/biz/david-centeno-law-pc-new-york,10004
+Rosenberg & Rodriguez Attorneys at Law,11 Park Pl,New York,NY,10007,2122333305,4.5,7,true,false,http://www.yelp.com/biz/rosenberg-and-rodriguez-attorneys-at-law-new-york,10004
+"Brian D. Perskin & Associates, P.C.",44 Court Street,Brooklyn,NY,11201,7188757584,5.0,11,true,false,http://www.yelp.com/biz/brian-d-perskin-and-associates-p-c-brooklyn-4,10004
+Vernikov NYC Immigration Lawyer,25 Broadway,New York,NY,10004,2127293497,5.0,5,true,false,http://www.yelp.com/biz/vernikov-and-mansour-pllc-new-york-2,10004
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,10004
+Storobin & Spodek,14 Wall St,New York,NY,10005,2127489243,3.5,3,true,false,http://www.yelp.com/biz/storobin-and-spodek-new-york,10004
+Bryant & Bleier LLP,305 Broadway,New York,NY,10007,6464216505,5.0,1,false,false,http://www.yelp.com/biz/bryant-and-bleier-llp-new-york,10004
+The Law Office of Meri S Ponist,401 Broadway,New York,NY,10013,6464577735,5.0,1,false,false,http://www.yelp.com/biz/the-law-office-of-meri-s-ponist-new-york,10004
+Scarlato Angela E,16 Court St,Brooklyn,NY,11241,7185226118,5.0,1,false,false,http://www.yelp.com/biz/scarlato-angela-e-brooklyn,10004
+"Spodek Law Group, PC",26 Court St,Brooklyn,NY,11242,7185963700,5.0,2,true,false,http://www.yelp.com/biz/spodek-law-group-pc-brooklyn-2,10004
+"The Gilmer Law Firm, PLLC.",26 Court St,Brooklyn,NY,11242,7188642011,5.0,1,true,false,http://www.yelp.com/biz/the-gilmer-law-firm-pllc-brooklyn-2,10004
+Ogmen Law Firm,61 Broadway,New York,NY,10005,2122457070,5.0,2,false,false,http://www.yelp.com/biz/ogmen-law-firm-new-york,10004
+Miller & Miller,26 Court St,Brooklyn,NY,11242,7185220023,3.5,3,true,false,http://www.yelp.com/biz/miller-and-miller-brooklyn,10004
+"Schpoont & Cavallo, LLP",2 Rector St,New York,NY,10006,2127926070,4.0,4,true,false,http://www.yelp.com/biz/schpoont-and-cavallo-llp-new-york,10004
+"Fersch Petitti, LLC",11 Broadway,Manhattan,NY,10004,2124222660,1.0,1,true,false,http://www.yelp.com/biz/fersch-petitti-llc-manhattan-2,10004
+"Law Offices Of Jeffrey B Peltz, PC",26 Court St,Brooklyn,NY,11242,7186250800,3.5,3,true,false,http://www.yelp.com/biz/law-offices-of-jeffrey-b-peltz-pc-brooklyn,10004
+"Spar Bernstein Lewis, LLP",225 Broadway,New York,NY,10007,2122273636,1.0,1,true,false,http://www.yelp.com/biz/spar-bernstein-lewis-llp-new-york,10004
+Cavallo Carrie Anne,2 Rector St,New York,NY,10006,2127926070,1.0,2,true,false,http://www.yelp.com/biz/cavallo-carrie-anne-new-york,10004
+Time Warner Cable,43 W 23rd St,New York,NY,10010,8443168554,1.5,501,true,false,http://www.yelp.com/biz/time-warner-cable-new-york,10004
+"David I. Witkon, Esq PC",600 Old Country Rd,Garden City,NY,11530,8007745976,5.0,5,true,false,http://www.yelp.com/biz/david-i-witkon-esq-pc-garden-city-2,11568
+"Ketover & Associates, LLC",1225 Franklin Ave,Garden City,NY,11530,5168772000,3.5,3,true,false,http://www.yelp.com/biz/ketover-and-associates-llc-garden-city,11568
+"Thomas Weiss & Associates, P.C.",1305 Franklin Ave,Garden City,NY,11530,5167467452,5.0,1,true,false,http://www.yelp.com/biz/thomas-weiss-and-associates-p-c-garden-city-2,11568
+"Hoffman & Behar, LLP",94 Second St,Mineola,NY,11501,5167465360,5.0,1,false,false,http://www.yelp.com/biz/hoffman-and-behar-llp-mineola,11568
+Law Offices of Elan Wurtzel,527 Old County Rd,Plainview,NY,11803,5168227866,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-elan-wurtzel-plainview,11568
+Robert Hiltzik Attorney At Law,380 N Broadway Penthouse W,Jericho,NY,11753,5163084674,1.0,1,false,false,http://www.yelp.com/biz/robert-hiltzik-attorney-at-law-jericho,11568
+"The Virdone Law Firm, P.C.",900 Merchants Concourse,Westbury,NY,11590,5165703875,5.0,1,true,false,http://www.yelp.com/biz/the-virdone-law-firm-p-c-westbury,11568
+"Friedman & Friedman, Attorneys at Law",666 Old Country Rd,Garden City,NY,11530,5162221030,1.0,3,true,false,http://www.yelp.com/biz/friedman-and-friedman-attorneys-at-law-garden-city,11568
+Douglas R. Rothkopf,Suite 602,Garden City,NY,11530,5167410166,5.0,1,false,false,http://www.yelp.com/biz/douglas-r-rothkopf-garden-city,11568
+Jonathan E Kroll & Associates,400 Garden City Plz,Garden City,NY,11530,5168738000,1.0,1,false,false,http://www.yelp.com/biz/jonathan-e-kroll-and-associates-garden-city,11568
+"Law Offices of Camille C. Fouche & Associates, PC",1325 Franklin Ave.,Garden City,NY,11530,5162408200,1.0,1,true,false,http://www.yelp.com/biz/law-offices-of-camille-c-fouche-and-associates-pc-garden-city,11568
+Law Office of Dalia Zaza,3 School Street,Glen Cove,NY,11542,5164186416,5.0,1,false,false,http://www.yelp.com/biz/law-office-of-dalia-zaza-glen-cove,11568
+The Law Office of Michael C Adges,105 Hillside Ave,Williston Park,NY,11596,5167421741,5.0,1,true,false,http://www.yelp.com/biz/the-law-office-of-michael-c-adges-williston-park,11568
+"Lasky & Steinberg, PC",595 Stewart Ave,Garden City,NY,11530,5165138442,1.0,1,true,false,http://www.yelp.com/biz/lasky-and-steinberg-pc-garden-city,11568
+Seward Edward III,5215 Old Orchard Rd,Skokie,IL,60077,8479651443,4.0,1,false,false,http://www.yelp.com/biz/seward-edward-iii-skokie,60043
+Cohen Lynn A Atty,4711 Golf Rd,Skokie,IL,60076,8476743000,1.0,2,false,false,http://www.yelp.com/biz/cohen-lynn-a-atty-skokie,60043
+Law Offices of David P Mierswa & Associates PC,5225 Old Orchard Rd,Skokie,IL,60077,8475666294,5.0,2,false,false,http://www.yelp.com/biz/law-offices-of-david-p-mierswa-and-associates-pc-skokie,60043
+The Von Kohorn Law Firm,127 Kings Hwy N,Westport,CT,06880,2036820901,5.0,4,true,false,http://www.yelp.com/biz/the-von-kohorn-law-firm-westport,06883
+Attorney Lawrence W. Berliner-Special Education & Disability Law,1720 Post Road East,Westport,CT,06880,2032550582,1.0,1,false,false,http://www.yelp.com/biz/lawrence-w-berliner-westport,06883
+Slepian David Craig Atty,72 Ruane St,Fairfield,CT,06824,2032553483,5.0,1,false,false,http://www.yelp.com/biz/slepian-david-craig-atty-fairfield,06883
+Shaughnessey Sheryl A Atty,1210 Post Rd,Fairfield,CT,06824,2032547544,1.0,1,false,false,http://www.yelp.com/biz/shaughnessey-sheryl-a-atty-fairfield,06883
+Gans & Gans,1335 Wood Ave,Bridgeport,CT,06604,2033848882,1.0,1,true,false,http://www.yelp.com/biz/gans-and-gans-bridgeport,06883
+"Michael C Pascoe, Attorney at Law",2237 Alma St,Palo Alto,CA,94301,6506569112,5.0,9,true,false,http://www.yelp.com/biz/michael-c-pascoe-attorney-at-law-palo-alto,94028
+Barbara J Kuehn Law & Mediation Offices,1601 El Camino Real,Belmont,CA,94002,6504012320,4.5,11,true,false,http://www.yelp.com/biz/barbara-j-kuehn-law-and-mediation-offices-belmont,94028
+Jeffrey J Preefer,333 W El Camino Real,Sunnyvale,CA,94087,4087207000,4.5,9,true,false,http://www.yelp.com/biz/jeffrey-j-preefer-sunnyvale,94028
+Yuli Law,1669-2 Hollenbeck Av 211,Sunnyvale,CA,94087,4083094506,5.0,4,true,false,http://www.yelp.com/biz/yuli-law-sunnyvale,94028
+Law And Mediation Office Of Sheila M. Harrington,750 Menlo Avenue Suite # 250,Menlo Park,CA,94025,6502331144,4.5,9,true,false,http://www.yelp.com/biz/sheila-m-harrington-law-and-mediation-office-menlo-park,94028
+Law Offices of Robert G. Cummings,2000 Broadway St,Redwood City,CA,94063,6503637280,5.0,4,true,false,http://www.yelp.com/biz/the-law-offices-of-robert-g-cummings-redwood-city,94028
+Law Office of Matthew J. Jensen,514 S. Murphy Ave,Sunnyvale,CA,94086,4089826288,4.0,4,true,false,http://www.yelp.com/biz/law-office-of-matthew-j-jensen-sunnyvale,94028
+Capitina Law Office,372 Castro St,Mountain View,CA,94041,6509676904,5.0,3,true,false,http://www.yelp.com/biz/capitina-law-office-mountain-view,94028
+Law Offices of Robert Menache,1100 Alma St,Menlo Park,CA,94025,6503260771,4.0,6,true,false,http://www.yelp.com/biz/law-offices-of-robert-menache-menlo-park,94028
+Jeffrey P Blum,350 Cambridge Ave,Palo Alto,CA,94306,6503222606,5.0,5,true,false,http://www.yelp.com/biz/jeffrey-p-blum-palo-alto,94028
+Law Office of Christiana E Samuels,1625 El Camino Real,Belmont,CA,94002,6507013911,4.5,7,true,false,http://www.yelp.com/biz/law-office-of-christiana-e-samuels-belmont,94028
+BPR Law Group,750 Menlo Ave,Menlo Park,CA,94025,6507047641,5.0,2,false,false,http://www.yelp.com/biz/bpr-law-group-menlo-park,94028
+Hannig Law Firm LLP,2991 El Camino Real,Redwood City,CA,94061,6504823040,4.5,7,true,false,http://www.yelp.com/biz/hannig-law-firm-llp-redwood-city,94028
+Jackson & Efting,438 S Murphy Ave,Sunnyvale,CA,94086,4087323114,5.0,3,true,false,http://www.yelp.com/biz/jackson-and-efting-sunnyvale-2,94028
+"Fausto Law, PC",1001 Laurel St,San Carlos,CA,94070,6509486114,5.0,2,true,false,http://www.yelp.com/biz/fausto-law-pc-san-carlos-3,94028
+"Seeley & Madigan, LLP",411 Borel Ave,San Mateo,CA,94402,6503479111,4.5,7,true,false,http://www.yelp.com/biz/seeley-and-madigan-llp-san-mateo-2,94028
+Roy Ching,800 W El Camino Real,Mountain View,CA,94040,6509634891,4.0,5,true,false,http://www.yelp.com/biz/roy-ching-mountain-view-2,94028
+"Kruger Rolf D, Attorney At Law",120 B Santa Margarita Ave,Menlo Park,CA,94070,6502891400,4.5,7,false,false,http://www.yelp.com/biz/kruger-rolf-d-attorney-at-law-menlo-park,94028
+Law Offices of Rod Firoozye,2600 El Camino Real,Palo Alto,CA,94306,6503313888,5.0,2,true,false,http://www.yelp.com/biz/law-offices-of-rod-firoozye-palo-alto,94028
+"Brown Family Law Group, PC",2000 Broadway St,Redwood City,CA,94063,6503637236,5.0,4,true,false,http://www.yelp.com/biz/brown-family-law-group-pc-redwood-city,94028
+Martha M Moran Attorney at Law,230 S Bemiston Ave,Clayton,MO,63105,3142723224,5.0,2,true,false,http://www.yelp.com/biz/martha-m-moran-attorney-at-law-clayton,63124
+The Law Offices of Christopher M. Braeske,8008 Carondelet,Saint Louis,MO,63105,3147262421,5.0,3,true,false,http://www.yelp.com/biz/the-law-offices-of-christopher-m-braeske-saint-louis-2,63124
+Mahley Wentzel Law and Mediation,453 N. Lindbergh Blvd,Saint Louis,MO,63141,3146695290,5.0,1,true,false,http://www.yelp.com/biz/mahley-wentzel-law-and-mediation-saint-louis,63124
+"Law Offices of Tarun B Rana, LLC",655 Craig Rd,Saint Louis,MO,63141,3143297690,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-tarun-b-rana-llc-saint-louis,63124
+Edward F Luby L L C,7777 Bonhomme Ave,Saint Louis,MO,63105,3144215829,4.0,1,false,false,http://www.yelp.com/biz/edward-f-luby-l-l-c-saint-louis,63124
+Allen Appraisal Services,1602 S Big Bend Blvd,Saint Louis,MO,63117,3146444143,1.0,1,false,false,http://www.yelp.com/biz/allen-appraisal-services-saint-louis,63124
+AKS Law Firm,26A N Central Ave,Clayton,MO,63105,3147402989,5.0,1,true,false,http://www.yelp.com/biz/aks-law-firm-clayton,63124
+"Jonathan D Marks, Attorney at Law",4 City Place Dr,Saint Louis,MO,63141,3149936300,5.0,1,true,false,http://www.yelp.com/biz/jonathan-d-marks-attorney-at-law-saint-louis,63124
+Featherston Law Firm,8777 Big Bend Blvd,Saint Louis,MO,63119,3144002302,1.0,1,true,false,http://www.yelp.com/biz/featherston-law-firm-saint-louis-2,63124
+Page Law,12166 Old Big Bend Rd,Kirkwood,MO,63122,3143228515,1.0,1,true,false,http://www.yelp.com/biz/page-law-kirkwood-2,63124
+"Goldson Hoekel, LLC",130 E Lockwood Ave,Saint Louis,MO,63119,3149616917,5.0,1,true,false,http://www.yelp.com/biz/goldson-hoekel-llc-saint-louis-4,63124
+The Carson Law Firm,7710 Carondelet Ave,Clayton,MO,63105,3147212422,5.0,1,true,false,http://www.yelp.com/biz/the-carson-law-firm-clayton,63124
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,10580
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,10580
+McGlynn Richard M,707 Yonkers Ave,Yonkers,NY,10704,9143764902,5.0,1,true,false,http://www.yelp.com/biz/mcglynn-richard-m-yonkers,10580
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,10580
+Law Office of Sandra M. Prowley and Asoociates,1037 East 213th,Bronx,NY,10469,7182393001,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-sandra-m-prowley-and-asoociates-bronx,10580
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,10580
+Time Warner Cable,43 W 23rd St,New York,NY,10010,8443168554,1.5,501,true,false,http://www.yelp.com/biz/time-warner-cable-new-york,10580
+Westchester Matrimonial LLC,"445 Hamilton Ave, Ste 607",White Plains,NY,10601,9143615500,5.0,2,true,false,http://www.yelp.com/biz/westchester-matrimonial-llc-white-plains-2,10580
+"Tilem & Associates, PC",188 East Post Road,White Plains,NY,10601,9148339785,5.0,1,true,false,http://www.yelp.com/biz/tilem-and-associates-white-plains,10580
+Carozza Carol Attorney,2525 Palmer Ave,New Rochelle,NY,10801,9142351498,1.0,2,true,false,http://www.yelp.com/biz/carol-carozza-esq-carozza-law-office-new-rochelle,10580
+"Goldschmidt & Genovese, LLP",81 Main St,White Plains,NY,10601,9146816006,1.0,1,true,false,http://www.yelp.com/biz/goldschmidt-and-genovese-llp-white-plains,10580
+Law Office of Dalia Zaza,3 School Street,Glen Cove,NY,11542,5164186416,5.0,1,false,false,http://www.yelp.com/biz/law-office-of-dalia-zaza-glen-cove,10580
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,10580
+Attanasio Michael M ESQ,656 Yonkers Ave,Yonkers,NY,10704,9142459669,5.0,1,false,false,http://www.yelp.com/biz/attanasio-michael-m-esq-yonkers,10580
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,10580
+Delaney Law Firm,929 Preston St,Houston,TX,77002,7132222767,3.0,2,true,false,http://www.yelp.com/biz/delaney-law-firm-houston-2,77210
+"Quezada Law Group, PLLC",2616 S Loop W,Houston,TX,77054,8322655512,5.0,2,true,false,http://www.yelp.com/biz/quezada-law-group-pllc-houston-2,77210
+Bryant Law,1001 Texas Ave,Houston,TX,77002,7132277377,5.0,1,true,false,http://www.yelp.com/biz/bryant-law-houston,77210
+Law Office of Diane M McManus,1314 Texas St,Houston,TX,77002,8326272395,1.0,2,false,false,http://www.yelp.com/biz/law-office-of-diane-m-mcmanus-houston,77210
+Richardson Legal PLLC,31-08 Broadway,Astoria,NY,11106,2125376744,5.0,5,true,false,http://www.yelp.com/biz/richardson-legal-pllc-astoria,06830
+The Von Kohorn Law Firm,127 Kings Hwy N,Westport,CT,06880,2036820901,5.0,4,true,false,http://www.yelp.com/biz/the-von-kohorn-law-firm-westport,06830
+Law Office of Seth D. Schraier,3647 Broadway Suite 4G,New York,NY,10031,9149078632,5.0,2,true,false,http://www.yelp.com/biz/law-office-of-seth-d-schraier-manhattan,06830
+Simonetti & Associates,144 Woodbury Rd,Woodbury,NY,11797,8773852560,5.0,3,false,false,http://www.yelp.com/biz/simonetti-and-associates-woodbury,06830
+Bryan L Salamone & Associates PC,1145 Walt Whitman Rd,Melville,NY,11747,6314243597,4.0,5,true,false,http://www.yelp.com/biz/bryan-l-salamone-and-associates-pc-melville,06830
+"Stephen Bilkis, Esq.",100 Park Ave,Manhattan,NY,10165,8006969529,4.0,13,false,false,http://www.yelp.com/biz/stephen-bilkis-esq-manhattan,06830
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,06830
+Lebwohl-Steiner Alan,12 N Division St,Peekskill,NY,10566,9147399191,5.0,1,false,false,http://www.yelp.com/biz/lebwohl-steiner-alan-peekskill,06830
+McGlynn Richard M,707 Yonkers Ave,Yonkers,NY,10704,9143764902,5.0,1,true,false,http://www.yelp.com/biz/mcglynn-richard-m-yonkers,06830
+The Law Firm of Wayne F. Crowe Jr. P.C.,20 South Broadway,Yonkers,NY,10701,3476106212,5.0,1,true,false,http://www.yelp.com/biz/the-law-firm-of-wayne-f-crowe-jr-pc-bronx,06830
+"Robert E. Hornberger, Esq., P.C.",445 Broadhollow Rd,Melville,NY,11747,6319231910,5.0,1,true,false,http://www.yelp.com/biz/robert-e-hornberger-esq-p-c-melville-2,06830
+Jayson Lutzky PC,26 W 183rd St,Bronx,NY,10453,7183299500,3.0,2,true,false,http://www.yelp.com/biz/jayson-lutzky-pc-bronx,06830
+The Law Offices of Olga Someras,2917A 23rd Ave,Astoria,NY,11105,9175381243,5.0,2,true,false,http://www.yelp.com/biz/the-law-offices-of-olga-someras-astoria,06830
+Rizos Susan E Attorney At Law,2255 31st Street,Astoria,NY,11105,7187775750,5.0,1,false,false,http://www.yelp.com/biz/rizos-susan-e-attorney-at-law-astoria,06830
+Albert Maimone & Associates PC,127-16 14th Ave,College Point,NY,11356,7183571216,5.0,1,true,false,http://www.yelp.com/biz/albert-maimone-and-associates-pc-college-point,06830
+"Paul Eric Rudder, ESQ -  Divorce & Family Lawyer",950 Third Avenue 11th Floor,New York,NY,10022,2128269900,5.0,1,false,false,http://www.yelp.com/biz/paul-eric-rudder-esq-new-york,06830
+Martin T Johnson,1 Blue Hill Plz,Pearl River,NY,10965,8457357000,3.0,2,false,false,http://www.yelp.com/biz/martin-t-johnson-pearl-river,06830
+"Wisselman, Harounian & Associates, PC",1010 Northern Blvd,Great Neck,NY,11021,5167738300,2.5,7,true,false,http://www.yelp.com/biz/wisselman-harounian-and-associates-pc-great-neck-3,06830
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,06830
+Law Office of Sandra M. Prowley and Asoociates,1037 East 213th,Bronx,NY,10469,7182393001,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-sandra-m-prowley-and-asoociates-bronx,06830
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,07021
+Laurie A Bernstein,145 Eagle Rock Ave,Roseland,NJ,07068,9732282100,5.0,1,false,false,http://www.yelp.com/biz/laurie-a-bernstein-roseland,07021
+"Snyder & Sarno, LLC",425 Eagle Rock Ave,Roseland,NJ,07068,9732745200,3.0,2,true,false,http://www.yelp.com/biz/snyder-and-sarno-llc-roseland-2,07021
+Trust Mediation,80 Main St,West Orange,NJ,07052,8622336228,5.0,2,true,false,http://www.yelp.com/biz/trust-mediation-west-orange,07021
+Westchester Matrimonial LLC,"445 Hamilton Ave, Ste 607",White Plains,NY,10601,9143615500,5.0,2,true,false,http://www.yelp.com/biz/westchester-matrimonial-llc-white-plains-2,10577
+"Tilem & Associates, PC",188 East Post Road,White Plains,NY,10601,9148339785,5.0,1,true,false,http://www.yelp.com/biz/tilem-and-associates-white-plains,10577
+"Goldschmidt & Genovese, LLP",81 Main St,White Plains,NY,10601,9146816006,1.0,1,true,false,http://www.yelp.com/biz/goldschmidt-and-genovese-llp-white-plains,10577
+Rabin Rochelle,101 Lindenwood Dr,Malvern,PA,19355,6103631290,5.0,2,true,false,http://www.yelp.com/biz/rabin-rochelle-malvern,19807
+Berner Klaw & Watson,1528 Walnut St,Philadelphia,PA,19102,2157908800,5.0,2,true,false,http://www.yelp.com/biz/berner-klaw-and-watson-philadelphia-2,19807
+"Bart Levy aka LevyLaw, LLC",1515 Market St,Philadelphia,PA,19102,2676878000,3.0,4,true,false,http://www.yelp.com/biz/bart-levy-aka-levylaw-llc-philadelphia,19807
+Law Offices of Amanda J Iannuzzelli,331 W State St,Media,PA,19063,6105511361,4.5,8,true,false,http://www.yelp.com/biz/law-offices-of-amanda-j-iannuzzelli-media,19807
+Joseph A Malley III Esquire PC,15 E Second St,Media,PA,19063,6105668010,5.0,1,true,false,http://www.yelp.com/biz/joseph-a-malley-iii-esquire-pc-media-2,19807
+Law Offices of Sheryl R. Rentz,326 W Lancaster Ave,Ardmore,PA,19003,6106450100,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-sheryl-r-rentz-ardmore,19807
+"Petrelli Law, P.C.","1845 Walnut Street, Suite 1616",Philadelphia,PA,19103,2155236900,5.0,1,true,false,http://www.yelp.com/biz/petrelli-law-pc-philadelphia-3,19807
+"Dunne Law Offices, PC",1515 Market St,Philadelphia,PA,19102,2155517109,5.0,1,true,false,http://www.yelp.com/biz/dunne-law-offices-pc-philadelphia,19807
+Law Offices of James V. Monaghan,25 West Airy St,Norristown,PA,19401,6102755800,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-james-v-monaghan-norristown,19807
+"Sadek and Cooper Law Offices, LLC",1315 Walnut Street,Philadelphia,PA,19107,2155450008,3.5,3,true,false,http://www.yelp.com/biz/sadek-and-cooper-law-offices-philadelphia,19807
+"Testa & Pagnanelli, LLC",1500 JFK Blvd,Philadelphia,PA,19102,2157741117,3.0,4,false,false,http://www.yelp.com/biz/testa-and-pagnanelli-llc-philadelphia-2,19807
+Cofsky & Zeidman,209 N Haddon Ave,Haddonfield,NJ,08033,8564295005,5.0,1,false,false,http://www.yelp.com/biz/cofsky-and-zeidman-haddonfield,19807
+Walder Lewis A Atty,7212 Frankford Ave,Philadelphia,PA,19135,2153322706,5.0,1,false,false,http://www.yelp.com/biz/walder-lewis-a-atty-philadelphia,19807
+Law Office of Cynthia Bashore,2300 Computer Ave,Willow Grove,PA,19090,2158685433,3.0,2,false,false,http://www.yelp.com/biz/law-office-of-cynthia-bashore-willow-grove-2,19807
+Bauer & Associates Attorneys at Law,2050 E High St,Pottstown,PA,19464,6109704961,3.5,3,true,false,http://www.yelp.com/biz/bauer-paul-a-iii-attorney-pottstown,19807
+"Affordable Legal Center, LLC",2448 Cottman Ave,Philadelphia,PA,19149,2153335297,5.0,1,true,false,http://www.yelp.com/biz/affordable-legal-center-llc-philadelphia,19807
+Nancy Larkin Taylor,43 E Oakland Ave,Doylestown,PA,18901,2153405039,5.0,1,true,false,http://www.yelp.com/biz/nancy-larkin-taylor-doylestown,19807
+Howard P Rovner,175 Bustleton Pike,Feasterville,PA,19053,2158209149,5.0,1,false,false,http://www.yelp.com/biz/howard-p-rovner-feasterville,19807
+New Hope Divorce Mediation,118 N State St,Newtown,PA,18940,8552224673,5.0,2,true,false,http://www.yelp.com/biz/new-hope-divorce-mediation-newtown-2,19807
+Reinherz & Reinherz Law Offices,1315 Walnut St,Philadelphia,PA,19107,8885510751,4.5,6,false,false,http://www.yelp.com/biz/reinherz-and-reinherz-law-offices-philadelphia,19807
+Law Offices of Atousa Saei,12424 Wilshire Blvd,West Los Angeles,CA,90025,3108553386,5.0,28,true,false,http://www.yelp.com/biz/law-offices-of-atousa-saei-west-los-angeles-2,90210
+Century Documents,2027 1/2 Westwood Blvd.,Los Angeles,CA,90025,3104415400,5.0,25,true,false,http://www.yelp.com/biz/century-documents-los-angeles,90210
+Law Offices of Korol and Velen,6300 Wilshire Blvd,Los Angeles,CA,90048,3236531600,5.0,12,true,false,http://www.yelp.com/biz/law-offices-of-korol-and-velen-los-angeles,90210
+Law Offices of Kelly Chang,5455 Wilshire Blvd,Los Angeles,CA,90036,3233935669,4.5,20,true,false,http://www.yelp.com/biz/law-offices-of-kelly-chang-los-angeles-2,90210
+Cohan Law Group,8549 Wilshire Blvd. Ste 222,Beverly Hills,CA,90211,3102742575,5.0,13,true,false,http://www.yelp.com/biz/cohan-law-group-beverly-hills-2,90210
+Law Offices of Anat Resnik,Westwood,Los Angeles,CA,90025,3104212006,5.0,10,true,false,http://www.yelp.com/biz/law-offices-of-anat-resnik-los-angeles-2,90210
+"Divorce Resource, Inc",2999 Overland Ave,Los Angeles,CA,90064,3108761355,5.0,8,true,false,http://www.yelp.com/biz/divorce-resource-inc-los-angeles,90210
+Law Offices of Anat Resnik,15760 Ventura Blvd,Encino,CA,91436,8189264420,5.0,7,true,false,http://www.yelp.com/biz/law-offices-of-anat-resnik-encino-2,90210
+Law Offices of Mark L. Tseselsky,15303 Ventura Blvd,Los Angeles,CA,91403,3108532907,5.0,6,true,false,http://www.yelp.com/biz/law-offices-of-mark-l-tseselsky-los-angeles,90210
+Law Offices of Linda Kouy-Ghadosh,16133 Ventura Blvd,Encino,CA,91436,8186311329,5.0,7,true,false,http://www.yelp.com/biz/law-offices-of-linda-kouy-ghadosh-encino,90210
+Elena Mebtahi,10866 Wilshire Blvd,Los Angeles,CA,90024,3102074005,4.5,10,true,false,http://www.yelp.com/biz/elena-mebtahi-los-angeles,90210
+Kermisch & Paletz LLP,12700 Ventura Blvd,Studio City,CA,91604,8184781043,5.0,14,true,false,http://www.yelp.com/biz/kermisch-and-paletz-llp-studio-city,90210
+Law Offices of Evan Braunstein,10250 Constellation Blvd.,Los Angeles,CA,90067,3103102236,4.5,10,true,false,http://www.yelp.com/biz/law-offices-of-evan-braunstein-los-angeles-2,90210
+Tamara Benefield Law Office,9454 Wilshire Blvd,Beverly Hills,CA,90212,3102717675,5.0,4,true,false,http://www.yelp.com/biz/tamara-benefield-law-office-beverly-hills,90210
+Women's Divorce Services,543 N Fairfax Ave,Los Angeles,CA,90036,3236556991,4.0,14,true,false,http://www.yelp.com/biz/womens-divorce-services-los-angeles,90210
+Pride Legal,8750 Holloway Dr,Los Angeles,CA,90069,8887897743,4.5,8,true,false,http://www.yelp.com/biz/pride-legal-los-angeles,90210
+Berenji & Associates,9107 Wilshire Blvd Suite 750,Beverly HIlls,CA,90210,3102716290,4.5,6,true,false,http://www.yelp.com/biz/berenji-and-associates-beverly-hills-3,90210
+California Divorce Council,13273 Ventura Blvd,Studio City,CA,91604,8187848844,4.0,5,true,false,http://www.yelp.com/biz/california-divorce-council-studio-city,90210
+"Lizarraga Law, APC",11372 Ventura Blvd,Los Angeles,CA,91604,8189851983,5.0,2,true,false,http://www.yelp.com/biz/lizarraga-law-apc-los-angeles,90210
+"Atighechi Law Group, Apc",9465 Wilshire Blvd,Beverly Hills,CA,90212,3107734542,5.0,4,true,false,http://www.yelp.com/biz/atighechi-law-group-apc-beverly-hills-2,90210
+Law Offices of Atousa Saei,12424 Wilshire Blvd,West Los Angeles,CA,90025,3108553386,5.0,28,true,false,http://www.yelp.com/biz/law-offices-of-atousa-saei-west-los-angeles-2,90077
+Century Documents,2027 1/2 Westwood Blvd.,Los Angeles,CA,90025,3104415400,5.0,25,true,false,http://www.yelp.com/biz/century-documents-los-angeles,90077
+Law Offices of Korol and Velen,6300 Wilshire Blvd,Los Angeles,CA,90048,3236531600,5.0,12,true,false,http://www.yelp.com/biz/law-offices-of-korol-and-velen-los-angeles,90077
+Cohan Law Group,8549 Wilshire Blvd. Ste 222,Beverly Hills,CA,90211,3102742575,5.0,13,true,false,http://www.yelp.com/biz/cohan-law-group-beverly-hills-2,90077
+Law Offices of Anat Resnik,Westwood,Los Angeles,CA,90025,3104212006,5.0,10,true,false,http://www.yelp.com/biz/law-offices-of-anat-resnik-los-angeles-2,90077
+Law Offices of Anat Resnik,15760 Ventura Blvd,Encino,CA,91436,8189264420,5.0,7,true,false,http://www.yelp.com/biz/law-offices-of-anat-resnik-encino-2,90077
+Law Offices of Linda Kouy-Ghadosh,16133 Ventura Blvd,Encino,CA,91436,8186311329,5.0,7,true,false,http://www.yelp.com/biz/law-offices-of-linda-kouy-ghadosh-encino,90077
+Law Offices of Mark L. Tseselsky,15303 Ventura Blvd,Los Angeles,CA,91403,3108532907,5.0,6,true,false,http://www.yelp.com/biz/law-offices-of-mark-l-tseselsky-los-angeles,90077
+"Divorce Resource, Inc",2999 Overland Ave,Los Angeles,CA,90064,3108761355,5.0,8,true,false,http://www.yelp.com/biz/divorce-resource-inc-los-angeles,90077
+Elena Mebtahi,10866 Wilshire Blvd,Los Angeles,CA,90024,3102074005,4.5,10,true,false,http://www.yelp.com/biz/elena-mebtahi-los-angeles,90077
+Kermisch & Paletz LLP,12700 Ventura Blvd,Studio City,CA,91604,8184781043,5.0,14,true,false,http://www.yelp.com/biz/kermisch-and-paletz-llp-studio-city,90077
+Law Offices of Evan Braunstein,10250 Constellation Blvd.,Los Angeles,CA,90067,3103102236,4.5,10,true,false,http://www.yelp.com/biz/law-offices-of-evan-braunstein-los-angeles-2,90077
+Tamara Benefield Law Office,9454 Wilshire Blvd,Beverly Hills,CA,90212,3102717675,5.0,4,true,false,http://www.yelp.com/biz/tamara-benefield-law-office-beverly-hills,90077
+Women's Divorce Services,543 N Fairfax Ave,Los Angeles,CA,90036,3236556991,4.0,14,true,false,http://www.yelp.com/biz/womens-divorce-services-los-angeles,90077
+"Cutter & Lax, Attorneys At Law",16250 Ventura Blvd,Encino,CA,91436,8188392533,5.0,7,true,false,http://www.yelp.com/biz/cutter-and-lax-attorneys-at-law-encino,90077
+California Divorce Council,13273 Ventura Blvd,Studio City,CA,91604,8187848844,4.0,5,true,false,http://www.yelp.com/biz/california-divorce-council-studio-city,90077
+Davies Wegner Law Corp.,11661 San Vicente Blvd,Los Angeles,CA,90049,3104810300,5.0,2,true,false,http://www.yelp.com/biz/davies-wegner-law-los-angeles-2,90077
+Dane P Miller,15260 Ventura Blvd,Sherman Oaks,CA,91403,8009066982,5.0,2,true,false,http://www.yelp.com/biz/dane-p-miller-sherman-oaks,90077
+Carol Sternberg,16530 Ventura Blvd,Encino,CA,91436,8189079924,5.0,2,true,false,http://www.yelp.com/biz/carol-sternberg-encino,90077
+Loghmana Law Firm,468 N Camden Dr,Beverly Hills,CA,90210,3108607442,5.0,2,false,false,http://www.yelp.com/biz/loghmana-law-firm-beverly-hills,90077
+The Law Offices of Howard Peritz,1121 Lake Cook Rd,Deerfield,IL,60015,8475625880,5.0,4,false,false,http://www.yelp.com/biz/law-offices-of-howard-peritz-deerfield,60045
+Boldt Raymond A Attorney,209 E Park St,Mundelein,IL,60060,8475663410,4.5,3,false,false,http://www.yelp.com/biz/boldt-raymond-a-attorney-mundelein,60045
+Beerman Pritikin Mirabelli Swerdlove LLP - North Shore Office,2275 Half Day Rd,Bannockburn,IL,60015,8476819600,5.0,1,false,false,http://www.yelp.com/biz/beerman-pritikin-mirabelli-swerdlove-llp-north-shore-office-bannockburn,60045
+Nelson Scott M,746 7th Ave,Libertyville,IL,60048,8473676232,5.0,1,false,false,http://www.yelp.com/biz/nelson-scott-m-libertyville,60045
+Alan Klein Attorney at Law,"Techny, IL 60082",Techny,IL,60082,7732750073,5.0,1,false,false,http://www.yelp.com/biz/alan-klein-attorney-at-law-techny-2,60045
+Welker Kenneth R Attorney At Law,4880 Euclid Ave,Palatine,IL,60067,8479348700,4.0,1,false,false,http://www.yelp.com/biz/welker-kenneth-r-attorney-at-law-palatine,60045
+Law Firm of Wendy R Morgan,1845 E Rand Rd,Arlington Heights,IL,60004,8472595700,2.0,8,true,false,http://www.yelp.com/biz/law-firm-of-wendy-r-morgan-arlington-heights,60045
+Ronald L. Bell & Associates P.C.,1113 S. Milwaukee Ave Suite 204,Libertyville,IL,60048,8474956000,4.5,6,true,false,http://www.yelp.com/biz/ronald-l-bell-and-associates-pc-libertyville-2,60045
+Reifman Law Offices,1040 S Milwaukee Ave,Wheeling,IL,60090,8472298433,3.0,1,true,false,http://www.yelp.com/biz/reifman-law-offices-wheeling-3,60045
+Lois Kulinsky & Associates Ltd,395 E Dundee Rd,Wheeling,IL,60090,8474594448,3.5,3,false,false,http://www.yelp.com/biz/lois-kulinsky-and-associates-ltd-wheeling,60045
+Lichter Sally A Atty,14047 W Petronella Dr,Libertyville,IL,60048,8479189840,3.0,2,false,false,http://www.yelp.com/biz/lichter-sally-a-atty-libertyville,60045
+"Lavelle Law, Ltd.",501 W Colfax St,Palatine,IL,60067,8477057555,3.0,4,false,false,http://www.yelp.com/biz/lavelle-law-ltd-palatine,60045
+Law Offices of Roger W Stelk,1500 W Shure Dr,Arlington Heights,IL,60004,8475067330,2.5,2,true,false,http://www.yelp.com/biz/law-offices-of-roger-w-stelk-arlington-heights-2,60045
+Nye and Associates Ltd.,1603 Barclay Blvd,Buffalo Grove,IL,60089,8472790026,3.0,4,true,false,http://www.yelp.com/biz/nye-and-associates-ltd-buffalo-grove-2,60045
+Janet E Boyle & Associates Lawyer,311 S Arlington Heights Rd,Arlington Heights,IL,60005,8473943940,1.0,1,false,false,http://www.yelp.com/biz/janet-e-boyle-and-associates-lawyer-arlington-heights,60045
+CEL & Associates,1641 N Milwaukee Ave,Libertyville,IL,60048,8669224733,3.5,6,true,false,http://www.yelp.com/biz/cel-and-associates-libertyville,60045
+Law Office of Michael J Cummins,20 E Westleigh Rd,Lake Forest,IL,60045,8478058226,5.0,1,true,false,http://www.yelp.com/biz/law-office-of-michael-j-cummins-lake-forest,60045
+Family Stress Clinic,1641 N Milwaukee Ave Ste 7,Libertyville,IL,60048,8473626919,2.0,1,false,false,http://www.yelp.com/biz/family-stress-clinic-libertyville,60045
+Robert S. Thomas Attorney At Law,1655 N Arlington Heights Road,Arlington Heights,IL,60004,8473925893,5.0,1,true,false,http://www.yelp.com/biz/law-office-of-robert-thomas-arlington-heights,60045
+Digiacomo & Somers LLC,191 Waukegan Rd,Northfield,IL,60093,8477848900,5.0,1,true,false,http://www.yelp.com/biz/digiacomo-and-somers-llc-northfield,60045
+Lebwohl-Steiner Alan,12 N Division St,Peekskill,NY,10566,9147399191,5.0,1,false,false,http://www.yelp.com/biz/lebwohl-steiner-alan-peekskill,10514
+"Durante, Bock & Tota, PLLC",2000 Maple Hill St,Yorktown Heights,NY,10598,9142456060,5.0,3,true,false,http://www.yelp.com/biz/durante-bock-and-tota-pllc-yorktown-heights,10514
+Westchester Matrimonial LLC,"445 Hamilton Ave, Ste 607",White Plains,NY,10601,9143615500,5.0,2,true,false,http://www.yelp.com/biz/westchester-matrimonial-llc-white-plains-2,10514
+"Goldschmidt & Genovese, LLP",81 Main St,White Plains,NY,10601,9146816006,1.0,1,true,false,http://www.yelp.com/biz/goldschmidt-and-genovese-llp-white-plains,10514
+"Tilem & Associates, PC",188 East Post Road,White Plains,NY,10601,9148339785,5.0,1,true,false,http://www.yelp.com/biz/tilem-and-associates-white-plains,10514
+Super Eye Private Investigations,15720 Ventura Blvd,Encino,CA,91436,8189862410,5.0,35,true,false,http://www.yelp.com/biz/super-eye-private-investigations-encino,90071
+MAC Services Group,1055 W 7th St,Los Angeles,CA,90017,3102796102,5.0,23,true,false,http://www.yelp.com/biz/mac-services-group-los-angeles,90071
+JPL Process Service,14482 Beach Blvd,Westminster,CA,92683,8667540520,5.0,25,true,false,http://www.yelp.com/biz/jpl-process-service-westminster-3,90071
+J R Investigations,22817 Ventura Blvd,Woodland Hills,CA,91364,8187049925,5.0,28,true,false,http://www.yelp.com/biz/j-r-investigations-woodland-hills-2,90071
+The Law Offices of Nigel Burns,800 W 1st St,Los Angeles,CA,90012,2136878080,5.0,15,true,false,http://www.yelp.com/biz/the-law-offices-of-nigel-burns-los-angeles,90071
+Alpha Criminal Defense,529 S Broadway,Los Angeles,CA,90013,8669913644,5.0,14,true,false,http://www.yelp.com/biz/alpha-criminal-defense-los-angeles-2,90071
+Tyson M. Takeuchi,1100 Wilshire Blvd,Los Angeles,CA,90017,8005534080,5.0,5,true,false,http://www.yelp.com/biz/tyson-m-takeuchi-los-angeles,90071
+"Randi Susan Klein, Attorney At Law",234 S Figueroa St,Los Angeles,CA,90012,2136804353,4.5,6,true,false,http://www.yelp.com/biz/randi-susan-klein-attorney-at-law-los-angeles,90071
+Law Offices of Jerry F Fernandez,1200 Wilshire Blvd,Los Angeles,CA,90017,2139770107,3.5,3,true,false,http://www.yelp.com/biz/law-offices-of-jerry-f-fernandez-los-angeles,90071
+Los Angeles Family Law Help Center,205 S Broadway,Los Angeles,CA,90012,2136209991,4.0,4,true,false,http://www.yelp.com/biz/los-angeles-family-law-help-center-los-angeles,90071
+Vincent W. Davis Attorney At Law,355 S Grand Ave,Los Angeles,CA,90071,8888934529,3.0,21,true,false,http://www.yelp.com/biz/vincent-w-davis-attorney-at-law-los-angeles,90071
+Estelle & Kennedy - A Professional Law Corporation,606 S Olive Street,Los Angeles,CA,90014,8002654280,4.5,2,true,false,http://www.yelp.com/biz/estelle-and-kennedy-a-professional-law-corporation-los-angeles,90071
+"Law Offices of Nicole E Foster, P.C.",445 S Figueroa St,Los Angeles,CA,90071,8007561128,3.0,2,true,false,http://www.yelp.com/biz/law-offices-of-nicole-e-foster-p-c-los-angeles-2,90071
+JAMS adr,555 W 5th St,Los Angeles,CA,90071,2136201133,5.0,1,false,false,http://www.yelp.com/biz/jams-adr-los-angeles,90071
+Sparks Law Corporation,448 S Hill St,Los Angeles,CA,90013,2132502210,3.5,3,false,false,http://www.yelp.com/biz/sparks-law-corporation-los-angeles,90071
+Teneo Investigations,205 S Broadway,Los Angeles,CA,90012,8182529072,5.0,1,true,false,http://www.yelp.com/biz/teneo-investigations-los-angeles,90071
+California Investigation Services,22817 Ventura Blvd,Los Angeles,CA,91364,8777722873,5.0,3,true,false,http://www.yelp.com/biz/california-investigation-services-los-angeles,90071
+Elif Keles,600 Wilshire Blvd,Los Angeles,CA,90017,2136234592,5.0,3,false,false,http://www.yelp.com/biz/elif-keles-los-angeles,90071
+ADLI Law Group P.C.,444 S Flower St,Los Angeles,CA,90071,2136236546,4.0,4,true,false,http://www.yelp.com/biz/adli-law-group-p-c-los-angeles-2,90071
+Attorney Referral Service of Los Angeles County,447 South Figueroa Street,Los Angeles,CA,90071,6613107999,1.0,1,false,false,http://www.yelp.com/biz/attorney-referral-service-of-los-angeles-county-los-angeles,90071
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,07924
+"Schiller & Pittenger, P.C.",1771 Front St,Scotch Plains,NJ,07076,9084900444,5.0,6,true,false,http://www.yelp.com/biz/schiller-and-pittenger-pc-scotch-plains-4,07924
+"Weinberger Law Group, LLC",119 Cherry Hill Rd,Parsippany,NJ,07054,9735208822,4.0,4,true,false,http://www.yelp.com/biz/weinberger-law-group-llc-parsippany-2,07924
+Barry E Levine Attorney At Law,101 Gibraltar Dr,Morris Plains,NJ,07950,9735382084,5.0,1,false,false,http://www.yelp.com/biz/barry-e-levine-attorney-at-law-morris-plains,07924
+"Foreman & Gray, LLC",760 State Rt 10,Whippany,NJ,07981,9732407313,5.0,1,true,false,http://www.yelp.com/biz/foreman-and-gray-llc-whippany,07924
+"Garces, Grabler & LeBrocq PC",415 Watchung Ave,Plainfield,NJ,07060,9087693366,5.0,2,true,false,http://www.yelp.com/biz/garces-grabler-and-lebrocq-pc-plainfield,07924
+"Kevin M Regan, LLC",43 Maple Ave,Morristown,NJ,07960,9739989878,3.5,2,true,false,http://www.yelp.com/biz/kevin-m-regan-llc-morristown-3,07924
+New Jersey Best Psychic,128 North Beverwyck Rd,Lake Hiawatha,NJ,07034,9732571919,3.0,1,true,false,http://www.yelp.com/biz/new-jersey-best-psychic-lake-hiawatha-2,07924
+Iandoli & Edens Atty,535 Main St,Chester,NJ,07930,9088799499,1.0,1,true,false,http://www.yelp.com/biz/iandoli-and-edens-atty-chester,07924
+The Darling Law Firm,"15 Commerce Blvd, Ste 200",Succasunna,NJ,07876,9735846200,5.0,1,true,false,http://www.yelp.com/biz/the-darling-law-firm-succasunna,07924
+Rotolo Law Firm the,502 US Highway 22,North Plainfield,NJ,07060,9085347900,5.0,1,false,false,http://www.yelp.com/biz/rotolo-law-firm-the-north-plainfield,07924
+Divorce Mediator NJ,798 Lake Shore Drive,Parsippany,NJ,07054,9734281034,5.0,1,true,false,http://www.yelp.com/biz/divorce-mediator-nj-parsippany,07924
+"Veres & Riordan, LLC",305 Palmer Rd,Denville,NJ,07834,9735371700,1.0,1,true,false,http://www.yelp.com/biz/veres-and-riordan-llc-denville,07924
+"Michael C Pascoe, Attorney at Law",2237 Alma St,Palo Alto,CA,94301,6506569112,5.0,9,true,false,http://www.yelp.com/biz/michael-c-pascoe-attorney-at-law-palo-alto,94022
+Barbara J Kuehn Law & Mediation Offices,1601 El Camino Real,Belmont,CA,94002,6504012320,4.5,11,true,false,http://www.yelp.com/biz/barbara-j-kuehn-law-and-mediation-offices-belmont,94022
+Law Office of Ekaterina Berman,3031 Tisch Way,San Jose,CA,95128,4084833012,5.0,6,true,false,http://www.yelp.com/biz/law-office-of-ekaterina-berman-san-jose,94022
+Jeffrey J Preefer,333 W El Camino Real,Sunnyvale,CA,94087,4087207000,4.5,9,true,false,http://www.yelp.com/biz/jeffrey-j-preefer-sunnyvale,94022
+Yuli Law,1669-2 Hollenbeck Av 211,Sunnyvale,CA,94087,4083094506,5.0,4,true,false,http://www.yelp.com/biz/yuli-law-sunnyvale,94022
+Law And Mediation Office Of Sheila M. Harrington,750 Menlo Avenue Suite # 250,Menlo Park,CA,94025,6502331144,4.5,9,true,false,http://www.yelp.com/biz/sheila-m-harrington-law-and-mediation-office-menlo-park,94022
+Law Office of Matthew J. Jensen,514 S. Murphy Ave,Sunnyvale,CA,94086,4089826288,4.0,4,true,false,http://www.yelp.com/biz/law-office-of-matthew-j-jensen-sunnyvale,94022
+Capitina Law Office,372 Castro St,Mountain View,CA,94041,6509676904,5.0,3,true,false,http://www.yelp.com/biz/capitina-law-office-mountain-view,94022
+Law Offices of Robert G. Cummings,2000 Broadway St,Redwood City,CA,94063,6503637280,5.0,4,true,false,http://www.yelp.com/biz/the-law-offices-of-robert-g-cummings-redwood-city,94022
+Law Offices of Serianna Jenab,987 University Ave,Los Gatos,CA,95032,4083537080,5.0,12,true,false,http://www.yelp.com/biz/law-offices-of-serianna-jenab-los-gatos,94022
+"The Law Office of Daniel Jensen, P.C.",4675 Stevens Creek Blvd,Santa Clara,CA,95051,4082964100,3.5,11,true,false,http://www.yelp.com/biz/the-law-office-of-daniel-jensen-p-c-santa-clara,94022
+Law Offices of Robert Menache,1100 Alma St,Menlo Park,CA,94025,6503260771,4.0,6,true,false,http://www.yelp.com/biz/law-offices-of-robert-menache-menlo-park,94022
+Jeffrey P Blum,350 Cambridge Ave,Palo Alto,CA,94306,6503222606,5.0,5,true,false,http://www.yelp.com/biz/jeffrey-p-blum-palo-alto,94022
+Jackson & Efting,438 S Murphy Ave,Sunnyvale,CA,94086,4087323114,5.0,3,true,false,http://www.yelp.com/biz/jackson-and-efting-sunnyvale-2,94022
+Law Office of Christiana E Samuels,1625 El Camino Real,Belmont,CA,94002,6507013911,4.5,7,true,false,http://www.yelp.com/biz/law-office-of-christiana-e-samuels-belmont,94022
+BPR Law Group,750 Menlo Ave,Menlo Park,CA,94025,6507047641,5.0,2,false,false,http://www.yelp.com/biz/bpr-law-group-menlo-park,94022
+Hannig Law Firm LLP,2991 El Camino Real,Redwood City,CA,94061,6504823040,4.5,7,true,false,http://www.yelp.com/biz/hannig-law-firm-llp-redwood-city,94022
+Roy Ching,800 W El Camino Real,Mountain View,CA,94040,6509634891,4.0,5,true,false,http://www.yelp.com/biz/roy-ching-mountain-view-2,94022
+"Kruger Rolf D, Attorney At Law",120 B Santa Margarita Ave,Menlo Park,CA,94070,6502891400,4.5,7,false,false,http://www.yelp.com/biz/kruger-rolf-d-attorney-at-law-menlo-park,94022
+Sines John B,342 State St,Los Altos,CA,94022,6509481096,5.0,1,false,false,http://www.yelp.com/biz/sines-john-b-los-altos,94022
+Rabin Rochelle,101 Lindenwood Dr,Malvern,PA,19355,6103631290,5.0,2,true,false,http://www.yelp.com/biz/rabin-rochelle-malvern,19085
+Berner Klaw & Watson,1528 Walnut St,Philadelphia,PA,19102,2157908800,5.0,2,true,false,http://www.yelp.com/biz/berner-klaw-and-watson-philadelphia-2,19085
+"Bart Levy aka LevyLaw, LLC",1515 Market St,Philadelphia,PA,19102,2676878000,3.0,4,true,false,http://www.yelp.com/biz/bart-levy-aka-levylaw-llc-philadelphia,19085
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,19085
+Law Offices of Amanda J Iannuzzelli,331 W State St,Media,PA,19063,6105511361,4.5,8,true,false,http://www.yelp.com/biz/law-offices-of-amanda-j-iannuzzelli-media,19085
+Law Offices of Sheryl R. Rentz,326 W Lancaster Ave,Ardmore,PA,19003,6106450100,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-sheryl-r-rentz-ardmore,19085
+Law Offices of James V. Monaghan,25 West Airy St,Norristown,PA,19401,6102755800,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-james-v-monaghan-norristown,19085
+"Petrelli Law, P.C.","1845 Walnut Street, Suite 1616",Philadelphia,PA,19103,2155236900,5.0,1,true,false,http://www.yelp.com/biz/petrelli-law-pc-philadelphia-3,19085
+Joseph A Malley III Esquire PC,15 E Second St,Media,PA,19063,6105668010,5.0,1,true,false,http://www.yelp.com/biz/joseph-a-malley-iii-esquire-pc-media-2,19085
+"Dunne Law Offices, PC",1515 Market St,Philadelphia,PA,19102,2155517109,5.0,1,true,false,http://www.yelp.com/biz/dunne-law-offices-pc-philadelphia,19085
+"Sadek and Cooper Law Offices, LLC",1315 Walnut Street,Philadelphia,PA,19107,2155450008,3.5,3,true,false,http://www.yelp.com/biz/sadek-and-cooper-law-offices-philadelphia,19085
+Law Office of Cynthia Bashore,2300 Computer Ave,Willow Grove,PA,19090,2158685433,3.0,2,false,false,http://www.yelp.com/biz/law-office-of-cynthia-bashore-willow-grove-2,19085
+"Testa & Pagnanelli, LLC",1500 JFK Blvd,Philadelphia,PA,19102,2157741117,3.0,4,false,false,http://www.yelp.com/biz/testa-and-pagnanelli-llc-philadelphia-2,19085
+Reinherz & Reinherz Law Offices,1315 Walnut St,Philadelphia,PA,19107,8885510751,4.5,6,false,false,http://www.yelp.com/biz/reinherz-and-reinherz-law-offices-philadelphia,19085
+"Coren J. Wise, Esquire",521 N 22nd St,Philadelphia,PA,19130,2159894530,4.5,6,true,false,http://www.yelp.com/biz/coren-j-wise-esquire-philadelphia-2,19085
+Justice Paralegal,2 Bala Plz,Bala Cynwyd,PA,19004,6106607751,1.0,1,true,false,http://www.yelp.com/biz/justice-paralegal-bala-cynwyd,19085
+"Law Offices of Harry Feinberg, Esquire",21 S 12th St,Philadelphia,PA,19107,2155641626,3.0,2,true,false,http://www.yelp.com/biz/law-offices-of-harry-feinberg-esquire-philadelphia,19085
+David W Gross,111 W Germantown Pike,Plymouth Meeting,PA,19462,6102902214,5.0,1,false,false,http://www.yelp.com/biz/david-w-gross-plymouth-meeting,19085
+Griffiths Law Office,1457 Riverwood Ln,Phoenixville,PA,19460,4849248119,5.0,1,false,false,http://www.yelp.com/biz/griffith-law-office-phoenixville,19085
+The Law Offices of John P Rutkowski,2173 Embassy Dr,Lancaster,PA,17603,8665170007,5.0,1,true,false,http://www.yelp.com/biz/the-law-offices-of-john-p-rutkowski-lancaster,19085
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,19035
+Law Offices of Sheryl R. Rentz,326 W Lancaster Ave,Ardmore,PA,19003,6106450100,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-sheryl-r-rentz-ardmore,19035
+Law Offices of James V. Monaghan,25 West Airy St,Norristown,PA,19401,6102755800,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-james-v-monaghan-norristown,19035
+Justice Paralegal,2 Bala Plz,Bala Cynwyd,PA,19004,6106607751,1.0,1,true,false,http://www.yelp.com/biz/justice-paralegal-bala-cynwyd,19035
+David W Gross,111 W Germantown Pike,Plymouth Meeting,PA,19462,6102902214,5.0,1,false,false,http://www.yelp.com/biz/david-w-gross-plymouth-meeting,19035
+The Von Kohorn Law Firm,127 Kings Hwy N,Westport,CT,06880,2036820901,5.0,4,true,false,http://www.yelp.com/biz/the-von-kohorn-law-firm-westport,06880
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,06880
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,06880
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,06880
+Attorney Lawrence W. Berliner-Special Education & Disability Law,1720 Post Road East,Westport,CT,06880,2032550582,1.0,1,false,false,http://www.yelp.com/biz/lawrence-w-berliner-westport,06880
+Slepian David Craig Atty,72 Ruane St,Fairfield,CT,06824,2032553483,5.0,1,false,false,http://www.yelp.com/biz/slepian-david-craig-atty-fairfield,06880
+Shaughnessey Sheryl A Atty,1210 Post Rd,Fairfield,CT,06824,2032547544,1.0,1,false,false,http://www.yelp.com/biz/shaughnessey-sheryl-a-atty-fairfield,06880
+Gans & Gans,1335 Wood Ave,Bridgeport,CT,06604,2033848882,1.0,1,true,false,http://www.yelp.com/biz/gans-and-gans-bridgeport,06880
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,06880
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,06880
+The Law Office of Samuel Solodar,1108 Nueces St,Austin,TX,78701,5123750321,5.0,14,true,false,http://www.yelp.com/biz/the-law-office-of-samuel-solodar-austin,78730
+"Thompson Salinas Rickers & McDermott, LLP",8140 N Mopac Expy,Austin,TX,78759,5122014083,5.0,8,true,false,http://www.yelp.com/biz/thompson-salinas-rickers-and-mcdermott-llp-austin,78730
+Christopher Philley Attorney At Law,8834 N Capital of Texas Hwy,Austin,TX,78759,5122462224,4.5,12,true,false,http://www.yelp.com/biz/christopher-philley-attorney-at-law-austin,78730
+"Zinda & Davis, PLLC",8834 N Capital of Texas Hwy,Austin,TX,78759,5122462224,5.0,7,true,false,http://www.yelp.com/biz/zinda-and-davis-pllc-austin-5,78730
+Law Office of Brandon Bledsoe,3305 Northland Dr,Austin,TX,78731,5129443329,5.0,5,true,false,http://www.yelp.com/biz/law-office-of-brandon-bledsoe-austin,78730
+Law Offices of Hilton K. Moore,7000 N Mopac Expy,Austin,TX,78731,5124802240,5.0,4,true,false,http://www.yelp.com/biz/law-offices-of-hilton-k-moore-austin,78730
+"Barnett & Associates, PC",13740 Research Blvd,Austin,TX,78750,5123361529,5.0,3,true,false,http://www.yelp.com/biz/barnett-and-associates-pc-austin-3,78730
+Jorgeson Pittman LLP,4505 Spicewood Springs Rd,Austin,TX,78759,5123200999,5.0,3,false,false,http://www.yelp.com/biz/jorgeson-pittman-llp-austin,78730
+Christine Henry Andresen,2003 S Lamar Blvd,Austin,TX,78704,5123944230,5.0,4,true,false,http://www.yelp.com/biz/christine-henry-andresen-austin,78730
+The Todd Law Firm,901 S. Mopac Expy,Austin,TX,78746,5124727799,5.0,5,true,false,http://www.yelp.com/biz/the-todd-law-firm-austin,78730
+"Piper Burnett Turner Bollier Miller, PLLC",6034 W Courtyard Dr,Austin,TX,78730,5124725060,4.5,8,true,false,http://www.yelp.com/biz/piper-burnett-turner-bollier-miller-pllc-austin-2,78730
+LegalMatch,10801 North Mopac Expy,Austin,TX,78759,5123776867,4.5,7,true,false,http://www.yelp.com/biz/legalmatch-austin-3,78730
+Carolyn L Collins,5750 Balcones Dr,Austin,TX,78731,5124744704,5.0,2,true,false,http://www.yelp.com/biz/carolyn-l-collins-austin,78730
+R. Shane McFarland,1800 Rio Grande St,Austin,TX,78701,5127080947,5.0,4,true,false,http://www.yelp.com/biz/r-shane-mcfarland-austin,78730
+Sarah Jaffery Law Firm,1106 West Ave,Austin,TX,78701,5128726845,5.0,5,true,false,http://www.yelp.com/biz/sarah-jaffery-law-firm-austin-2,78730
+Robertson Law Firm,1301 Nueces St,Austin,TX,78701,5129143477,5.0,6,true,false,http://www.yelp.com/biz/robertson-law-firm-austin-2,78730
+Coldwell Bradley M Atty,515 Congress Ave,Austin,TX,78701,5124722040,5.0,2,false,false,http://www.yelp.com/biz/coldwell-bradley-m-atty-austin,78730
+Izzo & Semler,1104 S Mays St,Round Rock,TX,78664,5122189292,5.0,2,false,false,http://www.yelp.com/biz/izzo-and-semler-round-rock,78730
+McHam Law,9414 Anderson Mill Rd,Austin,TX,78729,5127883554,4.0,4,true,false,http://www.yelp.com/biz/mcham-law-austin,78730
+Law Office of Sade Ogunbode-Pfeifer,7703 N Lamar Blvd,Austin,TX,78752,5126937117,5.0,2,true,false,http://www.yelp.com/biz/law-office-of-sade-ogunbode-pfeifer-austin,78730
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,10506
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,10506
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,10506
+"Durante, Bock & Tota, PLLC",2000 Maple Hill St,Yorktown Heights,NY,10598,9142456060,5.0,3,true,false,http://www.yelp.com/biz/durante-bock-and-tota-pllc-yorktown-heights,10506
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,10506
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,10506
+Westchester Matrimonial LLC,"445 Hamilton Ave, Ste 607",White Plains,NY,10601,9143615500,5.0,2,true,false,http://www.yelp.com/biz/westchester-matrimonial-llc-white-plains-2,10506
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,06878
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,06878
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,06878
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,06878
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,06878
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,07945
+"Schiller & Pittenger, P.C.",1771 Front St,Scotch Plains,NJ,07076,9084900444,5.0,6,true,false,http://www.yelp.com/biz/schiller-and-pittenger-pc-scotch-plains-4,07945
+"Weinberger Law Group, LLC",119 Cherry Hill Rd,Parsippany,NJ,07054,9735208822,4.0,4,true,false,http://www.yelp.com/biz/weinberger-law-group-llc-parsippany-2,07945
+Barry E Levine Attorney At Law,101 Gibraltar Dr,Morris Plains,NJ,07950,9735382084,5.0,1,false,false,http://www.yelp.com/biz/barry-e-levine-attorney-at-law-morris-plains,07945
+"Foreman & Gray, LLC",760 State Rt 10,Whippany,NJ,07981,9732407313,5.0,1,true,false,http://www.yelp.com/biz/foreman-and-gray-llc-whippany,07945
+"Garces, Grabler & LeBrocq PC",415 Watchung Ave,Plainfield,NJ,07060,9087693366,5.0,2,true,false,http://www.yelp.com/biz/garces-grabler-and-lebrocq-pc-plainfield,07945
+"Kevin M Regan, LLC",43 Maple Ave,Morristown,NJ,07960,9739989878,3.5,2,true,false,http://www.yelp.com/biz/kevin-m-regan-llc-morristown-3,07945
+Iandoli & Edens Atty,535 Main St,Chester,NJ,07930,9088799499,1.0,1,true,false,http://www.yelp.com/biz/iandoli-and-edens-atty-chester,07945
+The Darling Law Firm,"15 Commerce Blvd, Ste 200",Succasunna,NJ,07876,9735846200,5.0,1,true,false,http://www.yelp.com/biz/the-darling-law-firm-succasunna,07945
+Divorce Mediator NJ,798 Lake Shore Drive,Parsippany,NJ,07054,9734281034,5.0,1,true,false,http://www.yelp.com/biz/divorce-mediator-nj-parsippany,07945
+"Einhorn, Harris, Ascher, Barbarito & Frost, PC",165 E Main St,Denville,NJ,07834,9736277300,5.0,1,true,false,http://www.yelp.com/biz/einhorn-harris-ascher-barbarito-and-frost-pc-denville,07945
+"Cara Parmigiani, Esq",355 Rt 46,Mountain Lakes,NJ,07046,9737227655,5.0,1,true,false,http://www.yelp.com/biz/cara-parmigiani-esq-mountain-lakes,07945
+Rotolo Law Firm the,502 US Highway 22,North Plainfield,NJ,07060,9085347900,5.0,1,false,false,http://www.yelp.com/biz/rotolo-law-firm-the-north-plainfield,07945
+"Veres & Riordan, LLC",305 Palmer Rd,Denville,NJ,07834,9735371700,1.0,1,true,false,http://www.yelp.com/biz/veres-and-riordan-llc-denville,07945
+Pardalis & Nohavicka LLP,3510 Broadway,Astoria,NY,11106,7187770400,5.0,32,true,false,http://www.yelp.com/biz/pardalis-and-nohavicka-llp-astoria,10022
+Lindsay Chrisler,East Harlem,New York,NY,10029,3478154303,5.0,26,true,false,http://www.yelp.com/biz/lindsay-chrisler-new-york-2,10022
+"Mekhtiyev Law Firm, PC",551 5th Ave,New York,NY,10176,2122036974,5.0,10,true,false,http://www.yelp.com/biz/mekhtiyev-law-firm-pc-new-york,10022
+Law Office Of Daniel A Singer,245 5th Ave Rm 1902,New York,NY,10016,2125697853,4.5,6,true,false,http://www.yelp.com/biz/law-office-of-daniel-a-singer-new-york,10022
+Richardson Legal PLLC,31-08 Broadway,Astoria,NY,11106,2125376744,5.0,5,true,false,http://www.yelp.com/biz/richardson-legal-pllc-astoria,10022
+"Brian D. Perskin & Associates, P.C.",380 Lexington Ave,New York,NY,10168,7188757584,4.0,6,true,false,http://www.yelp.com/biz/brian-d-perskin-and-associates-p-c-new-york-2,10022
+Pantano & Gupta,112 Madison Ave,New York,NY,10016,6466127847,4.0,4,true,false,http://www.yelp.com/biz/pantano-and-gupta-new-york,10022
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,10022
+Landmark,317 A W 33rd St,New York,NY,10001,2128243300,3.0,48,true,false,http://www.yelp.com/biz/landmark-new-york-2,10022
+"Law Office of Vivien I. Stark, P.C.",370 Lexington Avenue,New York,NY,10017,2123491600,3.5,10,true,false,http://www.yelp.com/biz/law-office-of-vivien-i-stark-p-c-manhattan,10022
+"Stephen Bilkis, Esq.",100 Park Ave,Manhattan,NY,10165,8006969529,4.0,13,false,false,http://www.yelp.com/biz/stephen-bilkis-esq-manhattan,10022
+"Paul Eric Rudder, ESQ -  Divorce & Family Lawyer",950 Third Avenue 11th Floor,New York,NY,10022,2128269900,5.0,1,false,false,http://www.yelp.com/biz/paul-eric-rudder-esq-new-york,10022
+"The Kepanis Law Firm, PC",5 Penn Plz,New York,NY,10001,8889268066,5.0,1,true,false,http://www.yelp.com/biz/the-kepanis-law-firm-pc-new-york,10022
+Michael Ian Black,270 Madison Ave,New York,NY,10016,2122979090,5.0,1,true,false,http://www.yelp.com/biz/michael-ian-black-new-york,10022
+Thomas P McNulty & Assocs Attorneys At Laws,Hell's Kitchen,New York,NY,10001,2123440272,5.0,1,false,false,http://www.yelp.com/biz/thomas-p-mcnulty-and-assocs-attorneys-at-laws-new-york,10022
+Rizos Susan E Attorney At Law,2255 31st Street,Astoria,NY,11105,7187775750,5.0,1,false,false,http://www.yelp.com/biz/rizos-susan-e-attorney-at-law-astoria,10022
+Wincig & Wincig,137 5th Ave,New York,NY,10010,2125758333,5.0,1,false,false,http://www.yelp.com/biz/wincig-and-wincig-new-york,10022
+"Law Offices of Andrew J Spinnell, LLC",275 Madison Ave,New York,NY,10016,6464959484,3.5,2,true,false,http://www.yelp.com/biz/law-offices-of-andrew-j-spinnell-llc-new-york-3,10022
+The New Start Project,33 W 19th St,Manhattan,NY,10011,6466191272,3.0,2,false,false,http://www.yelp.com/biz/the-new-start-project-manhattan,10022
+Law Office of Thomas V. Purpi,419 Lafayette St,New York,NY,10003,6467703646,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-thomas-v-purpi-new-york,10022
+Leap Weddings,1147 W Ohio,Chicago,IL,60642,3126009220,5.0,63,true,false,http://www.yelp.com/biz/leap-weddings-chicago,60093
+The Wolkowitz Law Office,3750 Oakton St,Skokie,IL,60076,3125545433,5.0,10,true,false,http://www.yelp.com/biz/the-wolkowitz-law-office-skokie,60093
+Law Office of Russell D. Knight,4725 N Western Ave,Chicago,IL,60625,7733346311,4.5,11,true,false,http://www.yelp.com/biz/law-office-of-russell-d-knight-chicago,60093
+Law Offices of Joshua E. Stern,1603 Orrington Ave,Evanston,IL,60201,8478689584,5.0,6,true,false,http://www.yelp.com/biz/law-offices-of-joshua-e-stern-evanston,60093
+The Law Offices of Howard Peritz,1121 Lake Cook Rd,Deerfield,IL,60015,8475625880,5.0,4,false,false,http://www.yelp.com/biz/law-offices-of-howard-peritz-deerfield,60093
+The Law Office Of Schneider and Stone,8424 Skokie Blvd,Skokie,IL,60077,8479330300,5.0,1,true,false,http://www.yelp.com/biz/the-law-office-of-schneider-and-stone-skokie,60093
+Alan Klein Attorney at Law,"Techny, IL 60082",Techny,IL,60082,7732750073,5.0,1,false,false,http://www.yelp.com/biz/alan-klein-attorney-at-law-techny-2,60093
+Pechnick Michael D,6125 N Northwest Hwy,Chicago,IL,60631,7733142100,5.0,1,false,false,http://www.yelp.com/biz/pechnick-michael-d-chicago,60093
+Law Office of Torrick A Ward,7524 N Paulina,Chicago,IL,60626,3127207522,5.0,1,true,false,http://www.yelp.com/biz/law-office-of-torrick-a-ward-chicago,60093
+Jill M Metz & Associates,5443 N Broadway St,Chicago,IL,60640,7738784480,2.5,5,true,false,http://www.yelp.com/biz/jill-m-metz-and-associates-chicago,60093
+Beerman Pritikin Mirabelli Swerdlove LLP - North Shore Office,2275 Half Day Rd,Bannockburn,IL,60015,8476819600,5.0,1,false,false,http://www.yelp.com/biz/beerman-pritikin-mirabelli-swerdlove-llp-north-shore-office-bannockburn,60093
+"Cortez Law Office, LLC",3843 N Broadway Ave,Chicago,IL,60613,7739808956,5.0,2,true,false,http://www.yelp.com/biz/cortez-law-office-llc-chicago,60093
+Seward Edward III,5215 Old Orchard Rd,Skokie,IL,60077,8479651443,4.0,1,false,false,http://www.yelp.com/biz/seward-edward-iii-skokie,60093
+Reifman Law Offices,1040 S Milwaukee Ave,Wheeling,IL,60090,8472298433,3.0,1,true,false,http://www.yelp.com/biz/reifman-law-offices-wheeling-3,60093
+Lois Kulinsky & Associates Ltd,395 E Dundee Rd,Wheeling,IL,60090,8474594448,3.5,3,false,false,http://www.yelp.com/biz/lois-kulinsky-and-associates-ltd-wheeling,60093
+Law Office of Daniel Saichek,1427 W Winona,Chicago,IL,60640,7738788030,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-daniel-saichek-chicago,60093
+Cohen Lynn A Atty,4711 Golf Rd,Skokie,IL,60076,8476743000,1.0,2,false,false,http://www.yelp.com/biz/cohen-lynn-a-atty-skokie,60093
+Nye and Associates Ltd.,1603 Barclay Blvd,Buffalo Grove,IL,60089,8472790026,3.0,4,true,false,http://www.yelp.com/biz/nye-and-associates-ltd-buffalo-grove-2,60093
+Law Offices of David P Mierswa & Associates PC,5225 Old Orchard Rd,Skokie,IL,60077,8475666294,5.0,2,false,false,http://www.yelp.com/biz/law-offices-of-david-p-mierswa-and-associates-pc-skokie,60093
+Digiacomo & Somers LLC,191 Waukegan Rd,Northfield,IL,60093,8477848900,5.0,1,true,false,http://www.yelp.com/biz/digiacomo-and-somers-llc-northfield,60093
+Law Offices of Michael O'Young,2372 Morse Ave,Irvine,CA,92614,9495355201,5.0,22,true,false,http://www.yelp.com/biz/law-offices-of-michael-o-young-irvine-2,92657
+JPL Process Service,14482 Beach Blvd,Westminster,CA,92683,8667540520,5.0,25,true,false,http://www.yelp.com/biz/jpl-process-service-westminster-3,92657
+Alternative Divorce Solutions,100 Bayview Cir,Newport Beach,CA,92660,9492008412,5.0,12,true,false,http://www.yelp.com/biz/alternative-divorce-solutions-newport-beach-2,92657
+"Naheedy & Vondrak, LLP",OC Plaza,Irvine,CA,92614,9494004956,5.0,9,true,false,http://www.yelp.com/biz/naheedy-and-vondrak-llp-irvine,92657
+Law Office of Caryn H Nguyen,1 Park Plz,Irvine,CA,92614,9498524420,5.0,14,true,false,http://www.yelp.com/biz/law-office-of-caryn-h-nguyen-irvine,92657
+Law Offices of Brett R Wishart,4 Venture,Irvine,CA,92618,7147021440,5.0,12,true,false,http://www.yelp.com/biz/law-offices-of-brett-r-wishart-irvine-2,92657
+Law Offices of Mary Beth Holloway,901 Dove St,Newport Beach,CA,92660,9495531311,4.5,10,true,false,http://www.yelp.com/biz/law-offices-of-mary-beth-holloway-newport-beach,92657
+Law Offices of Cameron M Fernandez,4 Venture,Irvine,CA,92618,7148040303,5.0,4,true,false,http://www.yelp.com/biz/law-offices-of-cameron-m-fernandez-irvine,92657
+McNamee Mediations,18662 MacArthur Blvd,Irvine,CA,92612,9492233836,5.0,14,true,false,http://www.yelp.com/biz/mcnamee-mediations-irvine-2,92657
+We the People of Irvine,2222 Michelson Dr,Irvine,CA,92612,9494749991,4.5,7,true,false,http://www.yelp.com/biz/we-the-people-of-irvine-irvine,92657
+Laguna Beach Legal Document Services,Laguna Beach Legal,Laguna Beach,CA,92651,9494979800,4.5,11,true,false,http://www.yelp.com/biz/laguna-beach-legal-document-services-laguna-beach,92657
+"Wilkinson & Finkbeiner, LLP",18952 MacArthur Blvd,Irvine,CA,92612,9499559155,4.5,3,true,false,http://www.yelp.com/biz/wilkinson-and-finkbeiner-llp-irvine-2,92657
+"Risner & Associates, Inc.",369 San Miguel Drive,Newport Beach,CA,92660,7149540054,5.0,2,true,false,http://www.yelp.com/biz/risner-and-associates-inc-newport-beach,92657
+"Law Office of Craig A. Darling, Inc.",19800 MacArthur Blvd,Irvine,CA,92612,9492225522,5.0,4,true,false,http://www.yelp.com/biz/law-office-of-craig-a-darling-inc-irvine,92657
+"Minyard Morris, LLP",1811 Quail St,Newport Beach,CA,92660,9497241111,5.0,2,false,false,http://www.yelp.com/biz/minyard-morris-llp-newport-beach-2,92657
+Charis Medina,2967 Michelson Dr,Irvine,CA,92612,9496078889,5.0,1,true,false,http://www.yelp.com/biz/charis-medina-irvine,92657
+The Law Office of Anna C Brace,901 Dove St,Newport Beach,CA,92660,9492533700,5.0,6,true,false,http://www.yelp.com/biz/the-law-office-of-anna-c-brace-newport-beach,92657
+Orange County Family Mediation - Divorce Mediation,1901 Newport Blvd,Orange County,CA,92627,9492743828,5.0,4,false,false,http://www.yelp.com/biz/orange-county-family-mediation-costa-mesa-4,92657
+John A. Bledsoe,8105 Irvine Center Dr,Irvine,CA,92618,9493635551,5.0,1,false,false,http://www.yelp.com/biz/john-a-bledsoe-irvine,92657
+"Kirk & Toberty, LLP",2201 Dupont,Irvine,CA,92612,9498510355,5.0,1,true,false,http://www.yelp.com/biz/kirk-and-toberty-llp-irvine,92657
+Cooke & Santomauro,3 University Plaza Dr,Hackensack,NJ,07601,2014881030,4.0,4,true,false,http://www.yelp.com/biz/cooke-and-santomauro-hackensack,07458
+Rose Law Firm,8 Schweid Ct,Fair Lawn,NJ,07410,2012549685,5.0,2,true,false,http://www.yelp.com/biz/rose-law-firm-fair-lawn,07458
+Cooke Kevin P Attorney,3 University Plaza Dr,Hackensack,NJ,07601,2014881030,3.0,4,false,false,http://www.yelp.com/biz/cooke-kevin-p-attorney-hackensack,07458
+Martin T Johnson,1 Blue Hill Plz,Pearl River,NY,10965,8457357000,3.0,2,false,false,http://www.yelp.com/biz/martin-t-johnson-pearl-river,07458
+Denbeaux Joshua W Attorney,366 Kinderkamack Rd,Westwood,NJ,07675,2016648855,1.0,1,false,false,http://www.yelp.com/biz/denbeaux-joshua-w-attorney-westwood,07458
+Del Vescovo Francine Attorney,2 University Plz,Hackensack,NJ,07601,2013428100,1.0,1,false,false,http://www.yelp.com/biz/del-vescovo-francine-attorney-hackensack,07458
+Hirshfeld & Hirshfeld,301 N Main St,New City,NY,10956,8456386761,5.0,1,true,false,http://www.yelp.com/biz/hirshfeld-and-hirshfeld-new-city,07458
+Solimano John A ESQ,135 County Rd Ste 2,Cresskill,NJ,07626,2015696601,5.0,1,false,false,http://www.yelp.com/biz/solimano-john-a-esq-cresskill,07458
+Law Offices of Peter Van Aulen,"50 Market St,",Saddle Brook,NJ,07663,2018457400,5.0,1,false,false,http://www.yelp.com/biz/van-aulen-peter-saddle-brook,07458
+"Rubenstein, Meyerson, Fox, Mancinelli, Conte & Bern, P.A.",One Paragon Dr,Montvale,NJ,07645,2018029202,1.0,1,true,false,http://www.yelp.com/biz/rubenstein-meyerson-fox-mancinelli-conte-and-bern-p-a-montvale-2,07458
+Law Offices of Linda Kouy-Ghadosh,16133 Ventura Blvd,Encino,CA,91436,8186311329,5.0,7,true,false,http://www.yelp.com/biz/law-offices-of-linda-kouy-ghadosh-encino,91436
+Law Offices of Anat Resnik,15760 Ventura Blvd,Encino,CA,91436,8189264420,5.0,7,true,false,http://www.yelp.com/biz/law-offices-of-anat-resnik-encino-2,91436
+Law Offices of Mark L. Tseselsky,15303 Ventura Blvd,Los Angeles,CA,91403,3108532907,5.0,6,true,false,http://www.yelp.com/biz/law-offices-of-mark-l-tseselsky-los-angeles,91436
+Kermisch & Paletz LLP,12700 Ventura Blvd,Studio City,CA,91604,8184781043,5.0,14,true,false,http://www.yelp.com/biz/kermisch-and-paletz-llp-studio-city,91436
+Guzman Paralegal Services,18305 Sherman Way,Reseda,CA,91335,8187769717,5.0,5,true,false,http://www.yelp.com/biz/guzman-paralegal-services-reseda,91436
+Easy Busy Legal Corp.,18340 Ventura Blvd,Los Angeles,CA,91356,8182539090,5.0,6,true,false,http://www.yelp.com/biz/easy-busy-legal-corp-los-angeles-5,91436
+"Cutter & Lax, Attorneys At Law",16250 Ventura Blvd,Encino,CA,91436,8188392533,5.0,7,true,false,http://www.yelp.com/biz/cutter-and-lax-attorneys-at-law-encino,91436
+"Fast Divorce California,LLC",20944 Sherman Way,Canoga Park,CA,91303,8186103392,5.0,3,true,false,http://www.yelp.com/biz/fast-divorce-california-llc-canoga-park,91436
+Carol Sternberg,16530 Ventura Blvd,Encino,CA,91436,8189079924,5.0,2,true,false,http://www.yelp.com/biz/carol-sternberg-encino,91436
+Dane P Miller,15260 Ventura Blvd,Sherman Oaks,CA,91403,8009066982,5.0,2,true,false,http://www.yelp.com/biz/dane-p-miller-sherman-oaks,91436
+California Divorce Council,13273 Ventura Blvd,Studio City,CA,91604,8187848844,4.0,5,true,false,http://www.yelp.com/biz/california-divorce-council-studio-city,91436
+"Leslie Richards, Attorney at Law, APC",17337 Ventura Blvd,Encino,CA,91316,8187815000,5.0,2,true,false,http://www.yelp.com/biz/leslie-richards-attorney-at-law-apc-encino,91436
+Gevorkyan Law Firm,15315 Magnolia Blvd,Sherman Oaks,CA,91403,8559000202,5.0,2,true,false,http://www.yelp.com/biz/gevorkyan-law-firm-sherman-oaks,91436
+Tausig & Associates,5700 Ralston St,Ventura,CA,93003,8052931409,5.0,3,true,false,http://www.yelp.com/biz/tausig-and-associates-ventura-2,91436
+Family Care Monitoring Services,6320 Van Nuys Blvd,Van Nuys,CA,91401,8187803730,3.5,3,true,false,http://www.yelp.com/biz/family-care-monitoring-services-van-nuys,91436
+The Law Collaborative,21051 Warner Center Ln,Woodland Hills,CA,91367,8888529961,3.0,4,true,false,http://www.yelp.com/biz/the-law-collaborative-woodland-hills,91436
+A Adoption Atty David H Baum,16255 Ventura Blvd,Encino,CA,91436,8185018355,4.5,10,false,false,http://www.yelp.com/biz/a-adoption-atty-david-h-baum-encino,91436
+Alpert Law,"16633 Ventura Blvd, Suite 1400",Los Angeles,CA,91436,8189374840,5.0,1,false,false,http://www.yelp.com/biz/alpert-law-los-angeles,91436
+Law Offices of Michele Cobin Friedlander,15821 Ventura Blvd,Encino,CA,91436,8189861900,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-michele-cobin-friedlander-encino,91436
+"Ghazi Law Group, APLC",15233 Ventura Blvd,Sherman Oaks,CA,91403,8188396644,5.0,1,true,false,http://www.yelp.com/biz/ghazi-law-group-aplc-sherman-oaks,91436
+The Von Kohorn Law Firm,127 Kings Hwy N,Westport,CT,06880,2036820901,5.0,4,true,false,http://www.yelp.com/biz/the-von-kohorn-law-firm-westport,06490
+Attorney Lawrence W. Berliner-Special Education & Disability Law,1720 Post Road East,Westport,CT,06880,2032550582,1.0,1,false,false,http://www.yelp.com/biz/lawrence-w-berliner-westport,06490
+Slepian David Craig Atty,72 Ruane St,Fairfield,CT,06824,2032553483,5.0,1,false,false,http://www.yelp.com/biz/slepian-david-craig-atty-fairfield,06490
+Shaughnessey Sheryl A Atty,1210 Post Rd,Fairfield,CT,06824,2032547544,1.0,1,false,false,http://www.yelp.com/biz/shaughnessey-sheryl-a-atty-fairfield,06490
+Gans & Gans,1335 Wood Ave,Bridgeport,CT,06604,2033848882,1.0,1,true,false,http://www.yelp.com/biz/gans-and-gans-bridgeport,06490
+The Von Kohorn Law Firm,127 Kings Hwy N,Westport,CT,06880,2036820901,5.0,4,true,false,http://www.yelp.com/biz/the-von-kohorn-law-firm-westport,06870
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,06870
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,06870
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,06870
+"Law Office of Howard W. Yagerman, P.C.",27 Fairview Street,Huntington,NY,11743,6319232155,1.0,1,false,false,http://www.yelp.com/biz/law-office-of-howard-yagerman-pc-huntington,06870
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,06870
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,06870
+McGuire Karen D PC Atty,160 E Main St,Huntington,NY,11743,6314218600,1.0,1,false,false,http://www.yelp.com/biz/mcguire-karen-d-pc-atty-huntington,06870
+Westchester Matrimonial LLC,"445 Hamilton Ave, Ste 607",White Plains,NY,10601,9143615500,5.0,2,true,false,http://www.yelp.com/biz/westchester-matrimonial-llc-white-plains-2,06870
+"Tilem & Associates, PC",188 East Post Road,White Plains,NY,10601,9148339785,5.0,1,true,false,http://www.yelp.com/biz/tilem-and-associates-white-plains,06870
+Spodek Law Group P.C.,100 Church St,New York,NY,10007,2123005196,5.0,31,true,false,http://www.yelp.com/biz/spodek-law-group-p-c-new-york,07901
+Cooke & Santomauro,3 University Plaza Dr,Hackensack,NJ,07601,2014881030,4.0,4,true,false,http://www.yelp.com/biz/cooke-and-santomauro-hackensack,07901
+"Law Offices of Alice Antonovsky, PLLC",1400 Ave Z,Brooklyn,NY,11235,7189242896,5.0,3,true,false,http://www.yelp.com/biz/law-offices-of-alice-antonovsky-pllc-brooklyn-2,07901
+Rosenberg & Rodriguez Attorneys at Law,11 Park Pl,New York,NY,10007,2122333305,4.5,7,true,false,http://www.yelp.com/biz/rosenberg-and-rodriguez-attorneys-at-law-new-york,07901
+"Brian D. Perskin & Associates, P.C.",44 Court Street,Brooklyn,NY,11201,7188757584,5.0,11,true,false,http://www.yelp.com/biz/brian-d-perskin-and-associates-p-c-brooklyn-4,07901
+"Brian D. Perskin & Associates, P.C.",380 Lexington Ave,New York,NY,10168,7188757584,4.0,6,true,false,http://www.yelp.com/biz/brian-d-perskin-and-associates-p-c-new-york-2,07901
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,07901
+"Schiller & Pittenger, P.C.",1771 Front St,Scotch Plains,NJ,07076,9084900444,5.0,6,true,false,http://www.yelp.com/biz/schiller-and-pittenger-pc-scotch-plains-4,07901
+Rose Law Firm,8 Schweid Ct,Fair Lawn,NJ,07410,2012549685,5.0,2,true,false,http://www.yelp.com/biz/rose-law-firm-fair-lawn,07901
+The Serratelli Law Firm,328 Clifton Ave,Clifton,NJ,07013,9739281204,5.0,4,true,false,http://www.yelp.com/biz/the-serratelli-law-firm-clifton-2,07901
+"Weinberger Law Group, LLC",119 Cherry Hill Rd,Parsippany,NJ,07054,9735208822,4.0,4,true,false,http://www.yelp.com/biz/weinberger-law-group-llc-parsippany-2,07901
+"Stephen Bilkis, Esq.",100 Park Ave,Manhattan,NY,10165,8006969529,4.0,13,false,false,http://www.yelp.com/biz/stephen-bilkis-esq-manhattan,07901
+"The Law Office of Geoffrey T Mott, PC",546 Valley Rd,Montclair,NJ,07043,9736558989,4.0,4,true,false,http://www.yelp.com/biz/the-law-office-of-geoffrey-t-mott-pc-montclair,07901
+"Garces, Grabler & LeBrocq PC",415 Watchung Ave,Plainfield,NJ,07060,9087693366,5.0,2,true,false,http://www.yelp.com/biz/garces-grabler-and-lebrocq-pc-plainfield,07901
+"Foreman & Gray, LLC",760 State Rt 10,Whippany,NJ,07981,9732407313,5.0,1,true,false,http://www.yelp.com/biz/foreman-and-gray-llc-whippany,07901
+Shaievitz & Berowitz,299 Glenwood Ave Ste 2,Bloomfield,NJ,07003,9737437753,5.0,1,false,false,http://www.yelp.com/biz/shaievitz-and-berowitz-bloomfield,07901
+Ashenfelter Slous Mcdonough & Trevenen LLP,363 Bloomfield Ave,Montclair,NJ,07042,9737442100,5.0,1,true,false,http://www.yelp.com/biz/ashenfelter-slous-mcdonough-and-trevenen-llp-montclair,07901
+"ScheweLaw, LLC",16 Green St,Newark,NJ,07102,8627722800,5.0,1,false,false,http://www.yelp.com/biz/schewelaw-llc-newark-3,07901
+The Law Office of Kevin Glory,123 Van Buren St,Newark,NJ,07105,9733440038,3.0,2,true,false,http://www.yelp.com/biz/the-law-office-of-kevin-glory-newark,07901
+Barry E Levine Attorney At Law,101 Gibraltar Dr,Morris Plains,NJ,07950,9735382084,5.0,1,false,false,http://www.yelp.com/biz/barry-e-levine-attorney-at-law-morris-plains,07901
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,10504
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,10504
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,10504
+Westchester Matrimonial LLC,"445 Hamilton Ave, Ste 607",White Plains,NY,10601,9143615500,5.0,2,true,false,http://www.yelp.com/biz/westchester-matrimonial-llc-white-plains-2,10504
+"Tilem & Associates, PC",188 East Post Road,White Plains,NY,10601,9148339785,5.0,1,true,false,http://www.yelp.com/biz/tilem-and-associates-white-plains,10504
+"Goldschmidt & Genovese, LLP",81 Main St,White Plains,NY,10601,9146816006,1.0,1,true,false,http://www.yelp.com/biz/goldschmidt-and-genovese-llp-white-plains,10504
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,10504
+"Durante, Bock & Tota, PLLC",2000 Maple Hill St,Yorktown Heights,NY,10598,9142456060,5.0,3,true,false,http://www.yelp.com/biz/durante-bock-and-tota-pllc-yorktown-heights,10504
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,10504
+The Von Kohorn Law Firm,127 Kings Hwy N,Westport,CT,06880,2036820901,5.0,4,true,false,http://www.yelp.com/biz/the-von-kohorn-law-firm-westport,06897
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,06897
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,06897
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,06897
+Attorney Lawrence W. Berliner-Special Education & Disability Law,1720 Post Road East,Westport,CT,06880,2032550582,1.0,1,false,false,http://www.yelp.com/biz/lawrence-w-berliner-westport,06897
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,06897
+Slepian David Craig Atty,72 Ruane St,Fairfield,CT,06824,2032553483,5.0,1,false,false,http://www.yelp.com/biz/slepian-david-craig-atty-fairfield,06897
+Shaughnessey Sheryl A Atty,1210 Post Rd,Fairfield,CT,06824,2032547544,1.0,1,false,false,http://www.yelp.com/biz/shaughnessey-sheryl-a-atty-fairfield,06897
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,06897
+Jaymie Mitchell Attorney at Law PC,506 Humboldt St,Reno,NV,89509,7753339455,5.0,2,true,false,http://www.yelp.com/biz/jaymie-mitchell-attorney-at-law-pc-reno,02181
+Ken McKenna,544 W 1st St,Reno,NV,89503,7753296373,5.0,2,true,false,http://www.yelp.com/biz/ken-mckenna-reno-3,02181
+Law Office of William R Kendall,137 Mount Rose St,Reno,NV,89509,7753246464,4.5,2,true,false,http://www.yelp.com/biz/law-office-of-william-r-kendall-reno,02181
+Nevada Divorce & Document Services,338 California Ave,Reno,NV,89509,8883268876,5.0,3,true,false,http://www.yelp.com/biz/nevada-divorce-and-document-services-reno,02181
+"Silverman, Decaria & Kattelman Chtd",6140 Plumas St,Reno,NV,89519,7753223223,5.0,1,false,false,http://www.yelp.com/biz/silverman-decaria-and-kattelman-chtd-reno,02181
+Luna Law Firm,243 Stewart St,Reno,NV,89501,7753291000,5.0,1,true,false,http://www.yelp.com/biz/luna-law-firm-reno-2,02181
+"Barber Law Group, Inc.",557 Washington St,Reno,NV,89503,7753236464,5.0,3,false,false,http://www.yelp.com/biz/barber-law-group-inc-reno,02181
+"Abel Law Practice,",6490 S McCarran Blvd,Reno,NV,89509,7758282346,5.0,1,false,false,http://www.yelp.com/biz/abel-law-practice-reno,02181
+The Law Office of Jamie C Henry,335 W First St,Reno,NV,89503,7753240362,3.5,2,true,false,http://www.yelp.com/biz/the-law-office-of-jamie-c-henry-reno,02181
+Banales & Associates,620 Lander St,Reno,NV,89509,7753243888,4.0,1,true,false,http://www.yelp.com/biz/banales-and-associates-reno,02181
+Collins Thomas A Attorney At Law,410 California Ave,Reno,NV,89509,7753226648,1.0,1,false,false,http://www.yelp.com/biz/thomas-a-collins-attorney-at-law-reno,02181
+Alison J Colvin,232 Court St,Reno,NV,89501,7753227200,2.0,4,false,false,http://www.yelp.com/biz/alison-j-colvin-reno-2,02181
+Law Office of Marilyn D York,548 California Ave,Reno,NV,89509,7753247979,1.0,2,true,false,http://www.yelp.com/biz/law-office-of-marilyn-d-york-reno,02181
+Kathleen T Breckenridge,462 Court St,Reno,NV,89501,7757865055,1.0,1,true,false,http://www.yelp.com/biz/kathleen-t-breckenridge-reno,02181
+Roger R  Harada,475 S  Arlington Ave,Reno,NV,89501,7757877200,5.0,1,true,false,http://www.yelp.com/biz/roger-r-harada-reno,02181
+Siragusa Investigations,Hayes Valley,San Francisco,CA,94102,4158975026,5.0,10,true,false,http://www.yelp.com/biz/siragusa-investigations-san-francisco,94920
+Sonic,"Santa Rosa, CA 95407",Santa Rosa,CA,95407,8887664233,4.0,412,true,false,http://www.yelp.com/biz/sonic-santa-rosa-2,94920
+The Law Office of Pauli S Larsen,3030 Bridgeway,Sausalito,CA,95965,4157212482,5.0,1,false,false,http://www.yelp.com/biz/the-law-office-of-pauli-s-larsen-sausalito,94920
+Paula M Weaver,3030 Bridgeway Ste 130,Sausalito,CA,94965,4153323561,5.0,1,false,false,http://www.yelp.com/biz/paula-m-weaver-sausalito,94920
+Laing Bruce Law Office,100 Larkspur Landing Cir,Larkspur,CA,94939,4154613133,5.0,1,false,false,http://www.yelp.com/biz/laing-bruce-law-office-larkspur-2,94920
+Jeffrey A Riebel,770 Tamalpais Dr,Corte Madera,CA,94925,4159247171,2.0,1,false,false,http://www.yelp.com/biz/jeffrey-a-riebel-corte-madera,94920
+Lannon Law Offices Of Cecilia D Lannon Cecilia D Atty,PO Box 445,Kentfield,CA,94914,4154618839,1.0,1,false,false,http://www.yelp.com/biz/lannon-law-offices-of-cecilia-d-lannon-cecilia-d-atty-kentfield,94920
+Lannon Law Offices of Cecilia D,PO Box 643,Kentfield,CA,94914,4152099314,1.0,1,false,false,http://www.yelp.com/biz/lannon-law-offices-of-cecilia-d-kentfield,94920
+Spodek Law Group P.C.,100 Church St,New York,NY,10007,2123005196,5.0,31,true,false,http://www.yelp.com/biz/spodek-law-group-p-c-new-york,07417
+"Law Offices of Deborah G Fiss, Esq.",37-06 82nd St,Jackson Heights,NY,11372,7188980088,4.5,22,true,false,http://www.yelp.com/biz/law-offices-of-deborah-g-fiss-esq-jackson-heights-2,07417
+Law Office Of Daniel A Singer,245 5th Ave Rm 1902,New York,NY,10016,2125697853,4.5,6,true,false,http://www.yelp.com/biz/law-office-of-daniel-a-singer-new-york,07417
+Cooke & Santomauro,3 University Plaza Dr,Hackensack,NJ,07601,2014881030,4.0,4,true,false,http://www.yelp.com/biz/cooke-and-santomauro-hackensack,07417
+Richardson Legal PLLC,31-08 Broadway,Astoria,NY,11106,2125376744,5.0,5,true,false,http://www.yelp.com/biz/richardson-legal-pllc-astoria,07417
+Rosenberg & Rodriguez Attorneys at Law,11 Park Pl,New York,NY,10007,2122333305,4.5,7,true,false,http://www.yelp.com/biz/rosenberg-and-rodriguez-attorneys-at-law-new-york,07417
+"Brian D. Perskin & Associates, P.C.",380 Lexington Ave,New York,NY,10168,7188757584,4.0,6,true,false,http://www.yelp.com/biz/brian-d-perskin-and-associates-p-c-new-york-2,07417
+Rose Law Firm,8 Schweid Ct,Fair Lawn,NJ,07410,2012549685,5.0,2,true,false,http://www.yelp.com/biz/rose-law-firm-fair-lawn,07417
+The Serratelli Law Firm,328 Clifton Ave,Clifton,NJ,07013,9739281204,5.0,4,true,false,http://www.yelp.com/biz/the-serratelli-law-firm-clifton-2,07417
+Law Office of Seth D. Schraier,3647 Broadway Suite 4G,New York,NY,10031,9149078632,5.0,2,true,false,http://www.yelp.com/biz/law-office-of-seth-d-schraier-manhattan,07417
+"Weinberger Law Group, LLC",119 Cherry Hill Rd,Parsippany,NJ,07054,9735208822,4.0,4,true,false,http://www.yelp.com/biz/weinberger-law-group-llc-parsippany-2,07417
+"Stephen Bilkis, Esq.",100 Park Ave,Manhattan,NY,10165,8006969529,4.0,13,false,false,http://www.yelp.com/biz/stephen-bilkis-esq-manhattan,07417
+"The Law Office of Geoffrey T Mott, PC",546 Valley Rd,Montclair,NJ,07043,9736558989,4.0,4,true,false,http://www.yelp.com/biz/the-law-office-of-geoffrey-t-mott-pc-montclair,07417
+Dean Despotovich,1199 Main Ave,Clifton,NJ,07011,9737726466,2.5,3,false,false,http://www.yelp.com/biz/dean-despotovich-clifton,07417
+"Moskowitz Law Group, LLC",60 Court St,Hackensack,NJ,07601,2014883388,5.0,4,true,false,http://www.yelp.com/biz/moskowitz-law-group-llc-hackensack,07417
+Ashenfelter Slous Mcdonough & Trevenen LLP,363 Bloomfield Ave,Montclair,NJ,07042,9737442100,5.0,1,true,false,http://www.yelp.com/biz/ashenfelter-slous-mcdonough-and-trevenen-llp-montclair,07417
+Shaievitz & Berowitz,299 Glenwood Ave Ste 2,Bloomfield,NJ,07003,9737437753,5.0,1,false,false,http://www.yelp.com/biz/shaievitz-and-berowitz-bloomfield,07417
+"Chris Q. Miao, Esq.",Flushing,Queens,NY,NA,2055788883,5.0,1,true,false,http://www.yelp.com/biz/chris-q-miao-esq-queens,07417
+"The Kepanis Law Firm, PC",5 Penn Plz,New York,NY,10001,8889268066,5.0,1,true,false,http://www.yelp.com/biz/the-kepanis-law-firm-pc-new-york,07417
+Lebwohl-Steiner Alan,12 N Division St,Peekskill,NY,10566,9147399191,5.0,1,false,false,http://www.yelp.com/biz/lebwohl-steiner-alan-peekskill,07417
+The Von Kohorn Law Firm,127 Kings Hwy N,Westport,CT,06880,2036820901,5.0,4,true,false,http://www.yelp.com/biz/the-von-kohorn-law-firm-westport,06853
+"Greenberg & Krieger, LLP",350 Bedford St,Stamford,CT,06901,2038839964,5.0,1,false,false,http://www.yelp.com/biz/greenberg-and-krieger-llp-stamford-3,06853
+Law Office of Albert Unger LLC,One Bank St,Stamford,CT,06901,2033630599,2.0,1,true,false,http://www.yelp.com/biz/law-office-of-albert-unger-llc-stamford-2,06853
+Law Office of Yvette P Fallon,400 Main St,Stamford,CT,06901,2033560192,3.0,2,true,false,http://www.yelp.com/biz/law-office-of-yvette-p-fallon-stamford,06853
+Law Offices of Alan Scott Pickel,99 Prospect St,Stamford,CT,06901,2033484100,1.0,1,false,false,http://www.yelp.com/biz/law-offices-of-alan-scott-pickel-stamford,06853
+Law Offices of Seth J. Arnowitz LLC,733 Summer St,Stamford,CT,06901,2033487722,4.0,1,true,false,http://www.yelp.com/biz/law-offices-of-seth-j-arnowitz-llc-stamford,06853
+Attorney Lawrence W. Berliner-Special Education & Disability Law,1720 Post Road East,Westport,CT,06880,2032550582,1.0,1,false,false,http://www.yelp.com/biz/lawrence-w-berliner-westport,06853
+Slepian David Craig Atty,72 Ruane St,Fairfield,CT,06824,2032553483,5.0,1,false,false,http://www.yelp.com/biz/slepian-david-craig-atty-fairfield,06853
+Shaughnessey Sheryl A Atty,1210 Post Rd,Fairfield,CT,06824,2032547544,1.0,1,false,false,http://www.yelp.com/biz/shaughnessey-sheryl-a-atty-fairfield,06853
+Century Documents,2027 1/2 Westwood Blvd.,Los Angeles,CA,90025,3104415400,5.0,25,true,false,http://www.yelp.com/biz/century-documents-los-angeles,90212
+Law Offices of Korol and Velen,6300 Wilshire Blvd,Los Angeles,CA,90048,3236531600,5.0,12,true,false,http://www.yelp.com/biz/law-offices-of-korol-and-velen-los-angeles,90212
+Cohan Law Group,8549 Wilshire Blvd. Ste 222,Beverly Hills,CA,90211,3102742575,5.0,13,true,false,http://www.yelp.com/biz/cohan-law-group-beverly-hills-2,90212
+Law Offices of Anat Resnik,Westwood,Los Angeles,CA,90025,3104212006,5.0,10,true,false,http://www.yelp.com/biz/law-offices-of-anat-resnik-los-angeles-2,90212
+"Divorce Resource, Inc",2999 Overland Ave,Los Angeles,CA,90064,3108761355,5.0,8,true,false,http://www.yelp.com/biz/divorce-resource-inc-los-angeles,90212
+Elena Mebtahi,10866 Wilshire Blvd,Los Angeles,CA,90024,3102074005,4.5,10,true,false,http://www.yelp.com/biz/elena-mebtahi-los-angeles,90212
+Law Offices of Evan Braunstein,10250 Constellation Blvd.,Los Angeles,CA,90067,3103102236,4.5,10,true,false,http://www.yelp.com/biz/law-offices-of-evan-braunstein-los-angeles-2,90212
+Tamara Benefield Law Office,9454 Wilshire Blvd,Beverly Hills,CA,90212,3102717675,5.0,4,true,false,http://www.yelp.com/biz/tamara-benefield-law-office-beverly-hills,90212
+Women's Divorce Services,543 N Fairfax Ave,Los Angeles,CA,90036,3236556991,4.0,14,true,false,http://www.yelp.com/biz/womens-divorce-services-los-angeles,90212
+Berenji & Associates,9107 Wilshire Blvd Suite 750,Beverly HIlls,CA,90210,3102716290,4.5,6,true,false,http://www.yelp.com/biz/berenji-and-associates-beverly-hills-3,90212
+"Atighechi Law Group, Apc",9465 Wilshire Blvd,Beverly Hills,CA,90212,3107734542,5.0,4,true,false,http://www.yelp.com/biz/atighechi-law-group-apc-beverly-hills-2,90212
+Dream Law,9465 Wilshire Blvd,Beverly Hills,CA,90212,6269936725,5.0,3,true,false,http://www.yelp.com/biz/dream-law-beverly-hills,90212
+"Youngman Reitshtein, Professional Law Corporation",8888 W Olympic Blvd,Beverly Hills,CA,90211,3102769442,5.0,2,true,false,http://www.yelp.com/biz/youngman-reitshtein-professional-law-corporation-beverly-hills-3,90212
+The Law Offices of Danielle E Grabois,269 S Beverly Dr,Beverly Hills,CA,90212,4242741846,5.0,2,false,false,http://www.yelp.com/biz/the-law-offices-of-danielle-e-grabois-beverly-hills,90212
+Lauzon Peter,2029 Century Park E,Los Angeles,CA,90067,3102777117,5.0,2,true,false,http://www.yelp.com/biz/lauzon-peter-los-angeles,90212
+Loghmana Law Firm,468 N Camden Dr,Beverly Hills,CA,90210,3108607442,5.0,2,false,false,http://www.yelp.com/biz/loghmana-law-firm-beverly-hills,90212
+Galen Gentry and Associates,1875 Century Park E,Los Angeles,CA,90067,3102827521,3.5,3,true,false,http://www.yelp.com/biz/galen-gentry-and-associates-los-angeles,90212
+Tausig & Associates,5700 Ralston St,Ventura,CA,93003,8052931409,5.0,3,true,false,http://www.yelp.com/biz/tausig-and-associates-ventura-2,90212
+Law Offices of Sarah A. Intelligator,8200 Wilshire Blvd,Beverly Hills,CA,90211,3104613731,5.0,6,true,false,http://www.yelp.com/biz/law-offices-of-sarah-a-intelligator-beverly-hills,90212
+Kourosh M Pourmorady,6404 Wilshire Blvd,Los Angeles,CA,90048,3237828374,4.0,5,true,false,http://www.yelp.com/biz/kourosh-m-pourmorady-los-angeles,90212
+Berner Klaw & Watson,1528 Walnut St,Philadelphia,PA,19102,2157908800,5.0,2,true,false,http://www.yelp.com/biz/berner-klaw-and-watson-philadelphia-2,19041
+"Bart Levy aka LevyLaw, LLC",1515 Market St,Philadelphia,PA,19102,2676878000,3.0,4,true,false,http://www.yelp.com/biz/bart-levy-aka-levylaw-llc-philadelphia,19041
+Rabin Rochelle,101 Lindenwood Dr,Malvern,PA,19355,6103631290,5.0,2,true,false,http://www.yelp.com/biz/rabin-rochelle-malvern,19041
+Certified Polygraph Associates,7 Hutton Ave,West Orange,NJ,07052,8883144563,5.0,4,true,false,http://www.yelp.com/biz/certified-polygraph-associates-west-orange-2,19041
+Law Offices of Amanda J Iannuzzelli,331 W State St,Media,PA,19063,6105511361,4.5,8,true,false,http://www.yelp.com/biz/law-offices-of-amanda-j-iannuzzelli-media,19041
+Law Offices of Sheryl R. Rentz,326 W Lancaster Ave,Ardmore,PA,19003,6106450100,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-sheryl-r-rentz-ardmore,19041
+Joseph A Malley III Esquire PC,15 E Second St,Media,PA,19063,6105668010,5.0,1,true,false,http://www.yelp.com/biz/joseph-a-malley-iii-esquire-pc-media-2,19041
+Law Offices of James V. Monaghan,25 West Airy St,Norristown,PA,19401,6102755800,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-james-v-monaghan-norristown,19041
+"Petrelli Law, P.C.","1845 Walnut Street, Suite 1616",Philadelphia,PA,19103,2155236900,5.0,1,true,false,http://www.yelp.com/biz/petrelli-law-pc-philadelphia-3,19041
+"Dunne Law Offices, PC",1515 Market St,Philadelphia,PA,19102,2155517109,5.0,1,true,false,http://www.yelp.com/biz/dunne-law-offices-pc-philadelphia,19041
+"Sadek and Cooper Law Offices, LLC",1315 Walnut Street,Philadelphia,PA,19107,2155450008,3.5,3,true,false,http://www.yelp.com/biz/sadek-and-cooper-law-offices-philadelphia,19041
+"Testa & Pagnanelli, LLC",1500 JFK Blvd,Philadelphia,PA,19102,2157741117,3.0,4,false,false,http://www.yelp.com/biz/testa-and-pagnanelli-llc-philadelphia-2,19041
+Law Office of Cynthia Bashore,2300 Computer Ave,Willow Grove,PA,19090,2158685433,3.0,2,false,false,http://www.yelp.com/biz/law-office-of-cynthia-bashore-willow-grove-2,19041
+Walder Lewis A Atty,7212 Frankford Ave,Philadelphia,PA,19135,2153322706,5.0,1,false,false,http://www.yelp.com/biz/walder-lewis-a-atty-philadelphia,19041
+"Affordable Legal Center, LLC",2448 Cottman Ave,Philadelphia,PA,19149,2153335297,5.0,1,true,false,http://www.yelp.com/biz/affordable-legal-center-llc-philadelphia,19041
+Cofsky & Zeidman,209 N Haddon Ave,Haddonfield,NJ,08033,8564295005,5.0,1,false,false,http://www.yelp.com/biz/cofsky-and-zeidman-haddonfield,19041
+Howard P Rovner,175 Bustleton Pike,Feasterville,PA,19053,2158209149,5.0,1,false,false,http://www.yelp.com/biz/howard-p-rovner-feasterville,19041
+Nancy Larkin Taylor,43 E Oakland Ave,Doylestown,PA,18901,2153405039,5.0,1,true,false,http://www.yelp.com/biz/nancy-larkin-taylor-doylestown,19041
+Bauer & Associates Attorneys at Law,2050 E High St,Pottstown,PA,19464,6109704961,3.5,3,true,false,http://www.yelp.com/biz/bauer-paul-a-iii-attorney-pottstown,19041
+New Hope Divorce Mediation,118 N State St,Newtown,PA,18940,8552224673,5.0,2,true,false,http://www.yelp.com/biz/new-hope-divorce-mediation-newtown-2,19041
+"Law Offices of Joshua L Goldstein, PC","6 Beacon Street, # 220",Boston,MA,02108,6177220005,4.5,6,true,false,http://www.yelp.com/biz/law-offices-of-joshua-l-goldstein-pc-boston-3,02108
+Mediation Works Incorporated - MWI,4 Faneuil Hall,Boston,MA,02109,6179739739,5.0,3,true,false,http://www.yelp.com/biz/mediation-works-incorporated-mwi-boston-3,02108
+Barbara J Macy,65A Atlantic Ave,Boston,MA,02110,6177204005,5.0,3,false,false,http://www.yelp.com/biz/barbara-j-macy-boston,02108
+Law Office of Alan David Meyerson,100 State St,Boston,MA,02109,6174449525,5.0,4,true,false,http://www.yelp.com/biz/law-office-of-alan-david-meyerson-boston,02108
+Mavrides Law,160 State St,Boston,MA,02109,6177239900,5.0,1,true,false,http://www.yelp.com/biz/mavrides-law-boston,02108
+Stone Stone & Creem,1 Washington Mall,Boston,MA,02108,6175234567,5.0,1,false,false,http://www.yelp.com/biz/stone-stone-and-creem-boston,02108
+Kelly Feeley,200 Portland St,Boston,MA,02114,6172277222,5.0,2,false,false,http://www.yelp.com/biz/kelly-feeley-boston,02108
+Law Offices of Erin J Harris,185 Devonshire St,Boston,MA,02110,6175323906,5.0,1,true,false,http://www.yelp.com/biz/law-offices-of-erin-j-harris-boston,02108
+Burns & Levinson LLP,125 Summer St,Boston,MA,02110,6173453000,3.0,2,true,false,http://www.yelp.com/biz/burns-and-levinson-llp-boston-2,02108
+"Eisenstadt, Krippendorf and Galvin, LLP",2 Center Plz,Boston,MA,02108,6175233500,5.0,1,false,false,http://www.yelp.com/biz/eisenstadt-krippendorf-and-galvin-llp-boston,02108
+Gregory P Lee,1 Center Plz,Boston,MA,02108,8886434138,5.0,1,true,false,http://www.yelp.com/biz/gregory-p-lee-boston,02108
+Pamela Shaefer Law,43 Thorndike St,Cambridge,MA,02141,6174940088,5.0,1,false,false,http://www.yelp.com/biz/pamela-shaefer-law-cambridge,02108
+Law Offices of Jacob D. Geller,29 Commonwealth Ave,Boston,MA,02116,7814621346,5.0,3,true,false,http://www.yelp.com/biz/law-offices-of-jacob-d-geller-boston-2,02108
+Lovenberg & Associates,11 Beacon St,Boston,MA,02108,6179739950,3.0,2,true,false,http://www.yelp.com/biz/lovenberg-and-associates-boston-2,02108
+The Law Office of Steven R Long,76 Canal St,Boston,MA,02114,6173728160,2.0,1,true,false,http://www.yelp.com/biz/the-law-office-of-steven-r-long-boston,02108
+Baum & Dockter LLP,44 School St,Boston,MA,02108,6175003753,1.0,1,true,false,http://www.yelp.com/biz/baum-and-dockter-llp-boston-4,02108
+"Wilkinson & Finkbeiner, LLP",2 Oliver St,Boston,MA,02109,6177953611,5.0,2,true,false,http://www.yelp.com/biz/wilkinson-and-finkbeiner-llp-boston,02108
+The Gunn Firm,13 W Park Sq,Marietta,GA,30060,4049694505,5.0,2,true,false,http://www.yelp.com/biz/the-gunn-firm-marietta,30327
+Farnsworth Attorneys at Law,5064 Roswell Rd,Sandy Springs,GA,30342,4045258500,5.0,1,true,false,http://www.yelp.com/biz/farnsworth-attorneys-at-law-sandy-springs,30327
+The Law Offices Of C. Payne,Two Ravinia Dr,Atlanta,GA,30346,7708272482,5.0,1,false,false,http://www.yelp.com/biz/the-law-offices-of-c-payne-atlanta,30327
+Brian W. Craig of Lynch & Shewmaker,2845 Henderson Mill Rd,Atlanta,GA,30341,7709391939,5.0,1,false,false,http://www.yelp.com/biz/brian-w-craig-of-lynch-and-shewmaker-atlanta,30327
+The Barnes Law Firm,23 N Avondale Plz,Avondale Estates,GA,30002,6783107517,5.0,2,true,false,http://www.yelp.com/biz/the-barnes-law-firm-avondale-estates-2,30327
+Ayotte + Associates,3904 N Druid Hills Rd,Decatur,GA,30033,4049632390,5.0,3,true,false,http://www.yelp.com/biz/ayotte-associates-decatur-5,30327
+Outlaw Firm,315 Sycamore St,Decatur,GA,30030,4043719588,5.0,1,false,false,http://www.yelp.com/biz/outlaw-firm-decatur,30327
+"Stadler Law Group, LLC",8010 Roswell Rd,Atlanta,GA,30350,4046316300,5.0,2,true,false,http://www.yelp.com/biz/stadler-law-group-llc-atlanta,30327
+McCurdy & Candler,250 E Ponce De Leon Ave,Decatur,GA,30030,4043731612,5.0,1,false,false,http://www.yelp.com/biz/mccurdy-and-candler-decatur-2,30327
+The White Legal Group,910 Dannon View,Atlanta,GA,30331,4046965532,5.0,1,false,false,http://www.yelp.com/biz/the-white-legal-group-atlanta,30327
+Hylton R Stacy,250 Church St NE,Marietta,GA,30060,7704223200,5.0,1,false,false,http://www.yelp.com/biz/hylton-r-stacy-marietta,30327
+"The Roberts Law Firm, PC",462 E Paces Ferry Rd,Atlanta,GA,30305,4045372796,2.5,2,false,false,http://www.yelp.com/biz/the-roberts-law-firm-pc-atlanta-2,30327
+The Carson Firm,1995 N Park Pl,Atlanta,GA,30339,4047822347,3.5,3,true,false,http://www.yelp.com/biz/the-carson-firm-atlanta,30327
+Stearns-Montgomery & Proctor Family Law,291 Alexander St,Marietta,GA,30060,6789713413,2.0,4,true,false,http://www.yelp.com/biz/stearns-montgomery-and-proctor-family-law-marietta,30327
+"Gerald A Griggs, LLC",501 Pulliam St SW,Atlanta,GA,30312,4042218888,2.0,2,true,false,http://www.yelp.com/biz/gerald-a-griggs-llc-atlanta-2,30327
+"Crowe Legal, PC",3355 Lenox Rd,Atlanta,GA,30326,4046180863,1.0,1,false,false,http://www.yelp.com/biz/crowe-legal-pc-atlanta,30327
+Daniele Johnson & Associates,3350 Riverwood Pkwy,Decatur,GA,30033,7709845311,1.0,2,false,false,http://www.yelp.com/biz/daniele-johnson-and-associates-decatur,30327
+Courtney L. Johnson,556 North Mcdonough St,Decatur,GA,30030,4043712457,1.0,1,false,false,http://www.yelp.com/biz/courtney-l-johnson-decatur,30327
+Clemmons Law Firm,315 W Ponce DeLeon Ave,Decatur,GA,30030,4045498411,2.0,4,true,false,http://www.yelp.com/biz/clemmons-law-firm-decatur-3,30327
+Perrie & Associates,100 Galleria Pkwy,Atlanta,GA,30339,7705792700,1.0,1,false,false,http://www.yelp.com/biz/perrie-and-associates-atlanta,30327
+The Law Office of Samuel Solodar,1108 Nueces St,Austin,TX,78701,5123750321,5.0,14,true,false,http://www.yelp.com/biz/the-law-office-of-samuel-solodar-austin,78746
+"Thompson Salinas Rickers & McDermott, LLP",8140 N Mopac Expy,Austin,TX,78759,5122014083,5.0,8,true,false,http://www.yelp.com/biz/thompson-salinas-rickers-and-mcdermott-llp-austin,78746
+Christopher Philley Attorney At Law,8834 N Capital of Texas Hwy,Austin,TX,78759,5122462224,4.5,12,true,false,http://www.yelp.com/biz/christopher-philley-attorney-at-law-austin,78746
+"Zinda & Davis, PLLC",8834 N Capital of Texas Hwy,Austin,TX,78759,5122462224,5.0,7,true,false,http://www.yelp.com/biz/zinda-and-davis-pllc-austin-5,78746
+Brian Guerra,316 W 12th St,Austin,TX,78701,5124784447,5.0,10,true,false,http://www.yelp.com/biz/brian-guerra-austin,78746
+Christine Henry Andresen,2003 S Lamar Blvd,Austin,TX,78704,5123944230,5.0,4,true,false,http://www.yelp.com/biz/christine-henry-andresen-austin,78746
+Law Office of Brandon Bledsoe,3305 Northland Dr,Austin,TX,78731,5129443329,5.0,5,true,false,http://www.yelp.com/biz/law-office-of-brandon-bledsoe-austin,78746
+The Todd Law Firm,901 S. Mopac Expy,Austin,TX,78746,5124727799,5.0,5,true,false,http://www.yelp.com/biz/the-todd-law-firm-austin,78746
+Law Offices of Hilton K. Moore,7000 N Mopac Expy,Austin,TX,78731,5124802240,5.0,4,true,false,http://www.yelp.com/biz/law-offices-of-hilton-k-moore-austin,78746
+Jorgeson Pittman LLP,4505 Spicewood Springs Rd,Austin,TX,78759,5123200999,5.0,3,false,false,http://www.yelp.com/biz/jorgeson-pittman-llp-austin,78746
+"Piper Burnett Turner Bollier Miller, PLLC",6034 W Courtyard Dr,Austin,TX,78730,5124725060,4.5,8,true,false,http://www.yelp.com/biz/piper-burnett-turner-bollier-miller-pllc-austin-2,78746
+LegalMatch,10801 North Mopac Expy,Austin,TX,78759,5123776867,4.5,7,true,false,http://www.yelp.com/biz/legalmatch-austin-3,78746
+R. Shane McFarland,1800 Rio Grande St,Austin,TX,78701,5127080947,5.0,4,true,false,http://www.yelp.com/biz/r-shane-mcfarland-austin,78746
+Carolyn L Collins,5750 Balcones Dr,Austin,TX,78731,5124744704,5.0,2,true,false,http://www.yelp.com/biz/carolyn-l-collins-austin,78746
+Sarah Jaffery Law Firm,1106 West Ave,Austin,TX,78701,5128726845,5.0,5,true,false,http://www.yelp.com/biz/sarah-jaffery-law-firm-austin-2,78746
+Robertson Law Firm,1301 Nueces St,Austin,TX,78701,5129143477,5.0,6,true,false,http://www.yelp.com/biz/robertson-law-firm-austin-2,78746
+Coldwell Bradley M Atty,515 Congress Ave,Austin,TX,78701,5124722040,5.0,2,false,false,http://www.yelp.com/biz/coldwell-bradley-m-atty-austin,78746
+Law Office of Ann del Llano,506 W 12 St,Austin,TX,78701,5124990150,5.0,2,true,false,http://www.yelp.com/biz/law-office-of-ann-del-llano-austin,78746
+Rodnick Amie,507 W 7th St,Austin,TX,78701,5124772226,5.0,2,true,false,http://www.yelp.com/biz/rodnick-amie-austin,78746
+"Walters Gilbreath, PLLC",1301 S Capital of Texas Hwy,Austin,TX,78746,5123209160,5.0,1,true,false,http://www.yelp.com/biz/walters-gilbreath-pllc-austin-2,78746
+The Law Offices of Howard Peritz,1121 Lake Cook Rd,Deerfield,IL,60015,8475625880,5.0,4,false,false,http://www.yelp.com/biz/law-offices-of-howard-peritz-deerfield,60022
+Alan Klein Attorney at Law,"Techny, IL 60082",Techny,IL,60082,7732750073,5.0,1,false,false,http://www.yelp.com/biz/alan-klein-attorney-at-law-techny-2,60022
+Digiacomo & Somers LLC,191 Waukegan Rd,Northfield,IL,60093,8477848900,5.0,1,true,false,http://www.yelp.com/biz/digiacomo-and-somers-llc-northfield,60022
+Law Offices of Atousa Saei,12424 Wilshire Blvd,West Los Angeles,CA,90025,3108553386,5.0,28,true,false,http://www.yelp.com/biz/law-offices-of-atousa-saei-west-los-angeles-2,90272
+The Document People,21904 Ventura Blvd,Woodland Hills,CA,91364,8187049395,5.0,20,true,false,http://www.yelp.com/biz/the-document-people-woodland-hills,90272
+Century Documents,2027 1/2 Westwood Blvd.,Los Angeles,CA,90025,3104415400,5.0,25,true,false,http://www.yelp.com/biz/century-documents-los-angeles,90272
+Law Offices of Korol and Velen,6300 Wilshire Blvd,Los Angeles,CA,90048,3236531600,5.0,12,true,false,http://www.yelp.com/biz/law-offices-of-korol-and-velen-los-angeles,90272
+Law Offices of Kelly Chang,5455 Wilshire Blvd,Los Angeles,CA,90036,3233935669,4.5,20,true,false,http://www.yelp.com/biz/law-offices-of-kelly-chang-los-angeles-2,90272
+Freelance Paralegal Services,475 Washington Blvd,Marina Del Rey,CA,90292,3102858550,5.0,10,true,false,http://www.yelp.com/biz/freelance-paralegal-services-marina-del-rey,90272
+Cohan Law Group,8549 Wilshire Blvd. Ste 222,Beverly Hills,CA,90211,3102742575,5.0,13,true,false,http://www.yelp.com/biz/cohan-law-group-beverly-hills-2,90272
+Law Offices of Anat Resnik,Westwood,Los Angeles,CA,90025,3104212006,5.0,10,true,false,http://www.yelp.com/biz/law-offices-of-anat-resnik-los-angeles-2,90272
+Law Offices of Linda Kouy-Ghadosh,16133 Ventura Blvd,Encino,CA,91436,8186311329,5.0,7,true,false,http://www.yelp.com/biz/law-offices-of-linda-kouy-ghadosh-encino,90272
+Law Offices of Anat Resnik,15760 Ventura Blvd,Encino,CA,91436,8189264420,5.0,7,true,false,http://www.yelp.com/biz/law-offices-of-anat-resnik-encino-2,90272
+Law Offices of Mark L. Tseselsky,15303 Ventura Blvd,Los Angeles,CA,91403,3108532907,5.0,6,true,false,http://www.yelp.com/biz/law-offices-of-mark-l-tseselsky-los-angeles,90272
+"Divorce Resource, Inc",2999 Overland Ave,Los Angeles,CA,90064,3108761355,5.0,8,true,false,http://www.yelp.com/biz/divorce-resource-inc-los-angeles,90272
+Elena Mebtahi,10866 Wilshire Blvd,Los Angeles,CA,90024,3102074005,4.5,10,true,false,http://www.yelp.com/biz/elena-mebtahi-los-angeles,90272
+Kermisch & Paletz LLP,12700 Ventura Blvd,Studio City,CA,91604,8184781043,5.0,14,true,false,http://www.yelp.com/biz/kermisch-and-paletz-llp-studio-city,90272
+Law Offices of Evan Braunstein,10250 Constellation Blvd.,Los Angeles,CA,90067,3103102236,4.5,10,true,false,http://www.yelp.com/biz/law-offices-of-evan-braunstein-los-angeles-2,90272
+Tamara Benefield Law Office,9454 Wilshire Blvd,Beverly Hills,CA,90212,3102717675,5.0,4,true,false,http://www.yelp.com/biz/tamara-benefield-law-office-beverly-hills,90272
+Easy Busy Legal Corp.,18340 Ventura Blvd,Los Angeles,CA,91356,8182539090,5.0,6,true,false,http://www.yelp.com/biz/easy-busy-legal-corp-los-angeles-5,90272
+Peace Talks Mediation Services,8055 W Manchester Ave,Playa Del Rey,CA,90293,3103012100,4.5,10,true,false,http://www.yelp.com/biz/peace-talks-mediation-services-playa-del-rey-2,90272
+The Document People,2922 Wilshire Blvd,Santa Monica,CA,90403,3102640517,4.5,6,true,false,http://www.yelp.com/biz/the-document-people-santa-monica-2,90272
+"Cutter & Lax, Attorneys At Law",16250 Ventura Blvd,Encino,CA,91436,8188392533,5.0,7,true,false,http://www.yelp.com/biz/cutter-and-lax-attorneys-at-law-encino,90272
+"The Baldwin Law Firm, LLC",2915 Hunter Mill Rd,Oakton,VA,22124,7032810134,4.0,4,true,false,http://www.yelp.com/biz/the-baldwin-law-firm-llc-oakton-3,22066
+Bromberg Rosenthal LLC,401 N Washington St,Rockville,MD,20850,3012516200,5.0,2,true,false,http://www.yelp.com/biz/bromberg-rosenthal-llc-rockville,22066
+"Keithley Law, PLLC",9990 Fairfax Blvd Ste 340,Fairfax,VA,22030,7038657710,4.0,4,true,false,http://www.yelp.com/biz/keithley-law-pllc-fairfax-7,22066
+Herndon Law Firm,1031 Sterling Rd,Herndon,VA,20170,7034357330,5.0,1,true,false,http://www.yelp.com/biz/herndon-law-firm-herndon,22066
+"Brodsky Renehan Pearlstein & Bouquet, Chartered",16061 Comprint Cir,Gaithersburg,MD,20877,3018691700,5.0,1,true,false,http://www.yelp.com/biz/brodsky-renehan-pearlstein-and-bouquet-chartered-gaithersburg-3,22066
+The Law Office of Debra L Ackerman,401 E Jefferson St,Rockville,MD,20850,3013408190,5.0,1,false,false,http://www.yelp.com/biz/the-law-office-of-debra-l-ackerman-rockville,22066
+Stein Sperling,25 W Middle Ln,Rockville,MD,20850,3013402020,5.0,1,true,false,http://www.yelp.com/biz/stein-sperling-rockville,22066
+"Raminpour Law, PLC",8500 Leesburg Pike,Vienna,VA,22182,7039426464,5.0,1,true,false,http://www.yelp.com/biz/raminpour-law-plc-vienna,22066
+Kamkari Law Firm,10411 Motor City Dr,Bethesda,MD,20817,3013099002,5.0,1,false,false,http://www.yelp.com/biz/kamkari-law-firm-bethesda,22066
+Shah & Kishore,9201 Corporate Blvd,Rockville,MD,20850,3013150001,5.0,1,true,false,http://www.yelp.com/biz/shah-and-kishore-rockville,22066
+"Kales & Kales, PLC",4000 Legato Rd,Fairfax,VA,22033,7038967580,5.0,4,true,false,http://www.yelp.com/biz/kales-and-kales-plc-fairfax,22066
+Law Office of Kublan & Austin PLC,6521 Arlington Blvd,Falls Church,VA,22042,7038541081,5.0,1,false,false,http://www.yelp.com/biz/law-office-of-kublan-and-austin-plc-falls-church,22066
+Westlake Legal Group At Cascades,46175 Westlake Dr,Potomac Falls,VA,20165,7034067616,4.0,4,true,false,http://www.yelp.com/biz/westlake-legal-group-at-cascades-potomac-falls,22066
+The Law Office of Scott S Ives,46557 Pebblebrook Pl,Sterling,VA,20165,7034446600,4.0,1,true,false,http://www.yelp.com/biz/the-law-office-of-scott-s-ives-sterling,22066
+Parker Law Group,481 Carlisle Dr,Herndon,VA,20170,7036883150,3.0,2,true,false,http://www.yelp.com/biz/parker-law-group-herndon-2,22066
+"Havens & Associates, LLC",2401 Research Blvd,Rockville,MD,20850,3019473330,2.5,3,true,false,http://www.yelp.com/biz/havens-and-associates-llc-rockville-2,22066
+Pishevar Law Firm,226 N Adams St,Rockville,MD,20850,3012798773,2.0,1,false,false,http://www.yelp.com/biz/pishevar-law-firm-rockville-2,22066
+Garver Law Offices,11702 Bowman Green Dr,Reston,VA,20190,7034711090,1.0,2,true,false,http://www.yelp.com/biz/garverlandau-pllc-reston,22066
+Law Office of William Parker,481 Carlisle Dr,Herndon,VA,20170,7036883150,1.0,1,true,false,http://www.yelp.com/biz/law-office-of-william-parker-herndon,22066
+Cole Miller PLLC,1945 Old Gallows Rd,Vienna,VA,22182,7038833707,3.0,2,true,false,http://www.yelp.com/biz/cole-miller-pllc-vienna-2,22066
