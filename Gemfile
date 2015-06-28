@@ -32,6 +32,9 @@ gem 'aws-sdk'
 
 gem 'devise'
 
+
+#SEO RELATYED
+gem 'mechanize'
 gem 'sitemap_generator'
 gem 'friendly_id'
 # Use ActiveModel has_secure_password
