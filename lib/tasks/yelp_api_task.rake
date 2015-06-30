@@ -17,7 +17,7 @@ namespace :export do
         end
 
         def search(zip)
-          params = {sort: 2, term: "accounting"}
+          params = {sort: 2, term: "mechanics"}
 
           trending = @client.search(zip, params)
         end
@@ -33,7 +33,7 @@ namespace :export do
         
         # DAD's Froze at 86547 Yelp::Error::UnavailableForLocation: API unavailable in this location
 
-        test_zips = ["85017", "85022"]
+        test_zips = ["85017", "10008"]
 
         zips = test_zips
         
