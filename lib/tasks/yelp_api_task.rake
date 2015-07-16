@@ -1,6 +1,6 @@
 require 'yelp'
 require 'csv'
-require 'dotenv/tasks'
+#require 'dotenv/tasks' #Not used in Production
 
 
 namespace :export do
