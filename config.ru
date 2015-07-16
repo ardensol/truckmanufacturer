@@ -4,7 +4,7 @@ require ::File.expand_path('../config/environment', __FILE__)
 
 use Rack::ReverseProxy do  
   reverse_proxy(/^\/blog(\/.*)$/,
-    'http://104.236.18.17$1',
+    'http://104.236.3.254$1',
     opts = {:preserve_host => true})
 end  
 run Rails.application
