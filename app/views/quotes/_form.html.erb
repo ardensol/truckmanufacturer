@@ -10,10 +10,10 @@
 				<h3 class="quote_label">Name</h3>
 				<%= f.text_field(:name, class: "quote_input") %><br/>
 
-				<h3 class="quote_label">Type</h3>
-				<%= f.select :field, options_for_select([["Wedding", "Wedding"], ["Corporate", "Corporate"]]) %><br/>
+				<h3 class="quote_label">Type of Food Truck</h3>
+				<%= f.select :field, options_for_select([["Food Truck", "Food Truck"], ["Concession Stand", "Concession Stand"], ["Food Trailer", "Food Trailer"]]) %><br/>
 
-				<h3 class="quote_label">What Are Your Catering Needs?</h3>
+				<h3 class="quote_label">What Are Your Food Truck's Needs?</h3>
 				<%= f.text_area(:description, class: "quote_textarea") %><br/>
 
 				<h3 class="quote_label">Location</h3>

@@ -52,7 +52,7 @@ li {
 
 /* Home */
 .hero-bg-2 {
-  background: url('/images/dapper_header_3.jpg') no-repeat scroll left top / cover transparent;
+  background: url('/images/food-truck-main.jpg') no-repeat scroll left top / cover transparent;
   height: 550px;
 
 }
@@ -173,7 +173,13 @@ li {
 }
 
 .imagehome2a {
-  background: url('/images/one_background.jpg') repeat scroll center top / cover transparent;
+  background: url('/images/foodtruck_1.jpg') repeat scroll center top / cover transparent;
+  padding-top: 20px;
+  height: 380px;
+}
+
+.imagehome2b {
+  background: url('/images/food-truck_2.jpg') repeat scroll center top / cover transparent;
   padding-top: 20px;
   height: 380px;
 }
@@ -542,7 +548,7 @@ li {
 /* Websites Page */
 
 #websites_header {
-  background: url('/images/divorce_lawyer_websites.jpg');
+  background: url('/images/food-truck-main.jpg');
   background-repeat: no-repeat;
   height: 403px;
   background-size: cover !important;

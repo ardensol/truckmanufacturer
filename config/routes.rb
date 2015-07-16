@@ -24,11 +24,9 @@ Rails.application.routes.draw do
   get "comments/new"
 
 
-  root to: 'tours#websites'
+  root to: 'pages#home'
 
-  scope '/caterers' do
-    get 'websites', to: 'tours#websites'
-  end
+ 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
