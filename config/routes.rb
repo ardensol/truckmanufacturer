@@ -26,6 +26,9 @@ Rails.application.routes.draw do
 
   root to: 'pages#home'
 
+  match "/blog" => redirect("http://azfoodtruckmanufacturers.com/blog/"), via: :all 
+
+
  
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

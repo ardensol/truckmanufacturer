@@ -37,6 +37,10 @@ gem 'devise'
 gem 'mechanize'
 gem 'sitemap_generator'
 gem 'friendly_id'
+
+gem "rack-reverse-proxy", :require => "rack/reverse_proxy"
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
