@@ -8,4 +8,10 @@ class ApplicationController < ActionController::Base
   		redirect_to new_user_session_path, :alert => "You must be signed in to access that page."
   	end
   end
+
+  def verify_admin
+    unless current_user.admin? == true
+      redirect_to root_path
+    end
+  end
 end
