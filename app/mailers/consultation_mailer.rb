@@ -7,4 +7,9 @@ class ConsultationMailer < ActionMailer::Base
 	    mail(:subject => "New Consultation Request!",
 	    	bcc: @consultation.email )
   	end
+
+  	def new_quote(quote)
+  		@quote = quote
+  		mail(subject: "New quote", bcc:"csolorio05@gmail.com")
+  	end
 end

@@ -23,6 +23,8 @@ class QuotesController < ApplicationController
 	      if @quote.save
 	        format.html { redirect_to @quote, notice: 'Your Quote Has Been Processed.' }
 	        format.json { render action: 'show', status: :created, location: @quote }
+	        quote = @quote
+	        ConsultationMailer.new_quote(quote).deliver
 	      else
 	        format.html { render action: 'new' }
 	        format.json { render json: @quote.errors, status: :unprocessable_entity }
