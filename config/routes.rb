@@ -7,7 +7,7 @@ Rails.application.routes.draw do
     resources :bids
   end
 
-  resources :profiles
+  resources :profiles, path: 'builders'
 
   resources :consultations
 
