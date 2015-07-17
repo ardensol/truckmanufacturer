@@ -18,10 +18,10 @@ class QuotesController < ApplicationController
 		else
 			@quote = Quote.new(quote_params)
 		end
-
+u 
 	    respond_to do |format|
 	      if @quote.save
-	        format.html { redirect_to @quote, notice: 'Your Quote Has Been Processed.' }
+	        format.html { redirect_to root_path, notice: 'Your Quote Has Been Processed.  You will receive an email once Bids are Placed.' }
 	        format.json { render action: 'show', status: :created, location: @quote }
 	        quote = @quote
 	        ConsultationMailer.new_quote(quote).deliver
