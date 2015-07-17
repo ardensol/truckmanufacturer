@@ -13,6 +13,7 @@ class ProfilesController < ApplicationController
   # GET /profiles/1
   # GET /profiles/1.json
   def show
+    @title = "#{@profile.name} - Food Truck Manufacturer and Builder"
   end
 
   # GET /profiles/new
