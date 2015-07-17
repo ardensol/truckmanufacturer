@@ -10,7 +10,7 @@ class ApplicationController < ActionController::Base
   end
 
   def verify_admin
-    unless current_user.admin? == true
+    unless user_signed_in? && current_user.admin == true
       redirect_to root_path
     end
   end

@@ -1,6 +1,7 @@
 class ProfilesController < ApplicationController
   before_action :set_profile, only: [:show, :edit, :update, :destroy]
   before_action :verify_admin, only: [:edit, :update, :destroy]
+
   respond_to :html, :js
 
 
@@ -8,6 +9,7 @@ class ProfilesController < ApplicationController
   # GET /profiles.json
   def index
     @profiles = Profile.all
+    @title = "Find the Best Food Truck Manufacturers & Builders in the Country"
   end
 
   # GET /profiles/1

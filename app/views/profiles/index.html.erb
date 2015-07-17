@@ -1,34 +1,36 @@
 <p id="notice"><%= notice %></p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Company</th>
-      <th>Name</th>
-      <th>Blurb</th>
-      <th>State</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
 
-  <tbody>
-    <% @profiles.each do |profile| %>
-      <tr>
-        <td><%= profile.user_id %></td>
-        <td><%= profile.name %></td>
-        <td><%= profile.blurb %></td>
-        <td><%= profile.state %></td>
-      <% if current_user.admin == true %>  
-        <td><%= link_to 'Show', profile %></td>
-        <td><%= link_to 'Edit', edit_profile_path(profile) %></td>
-        <td><%= link_to 'Destroy', profile, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+<div class= "container-fluid" style="padding-bottom: 40px">
+
+<h2> Find the Best Food Truck Manufacturers & Builders in the Country </h2>
+      <% @profiles.each do |profile| %>
+          <div class="row" style="padding-left: 80px">
+              <div class= "col-md-3">
+                <a class="user-image-link-post"><%=link_to( image_tag(profile.avatar.url(:medium), :class => "circular-image-mini"), profile_path(profile)) %> </a>
+              </div>
+              <div class="col-md-9" style="padding-right: 80px, margin-top: 30px">    
+
+                  <%= link_to profile.name, profile_path(profile) %>
+
+                  <%= profile.blurb %>
+                  <%= profile.state %>
+              </div>
+                <% if user_signed_in? && current_user.admin == true %>  
+                  <td><%= link_to 'Show', profile %></td>
+                  <td><%= link_to 'Edit', edit_profile_path(profile) %></td>
+                  <td><%= link_to 'Destroy', profile, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+                <% end %>
+        </div>
+        <hr class="profiles-rule">
+
       <% end %>
-      </tr>
-    <% end %>
-  </tbody>
-</table>
 
-<br>
-<% if current_user.admin == true %>
-  <%= link_to 'New Profile', new_profile_path %>
-<% end %>
+  <br>
+  <% if user_signed_in? && current_user.admin == true %>
+    <%= link_to 'New Profile', new_profile_path %>
+  <% end %>
+</div>
+
+
+
